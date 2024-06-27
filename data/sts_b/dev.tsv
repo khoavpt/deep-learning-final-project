@@ -1,0 +1,732 @@
+index	genre	filename	year	old_index	source1	source2	sentence1	sentence2	score
+0	main-captions	MSRvid	2012test	0	none	none	A man with a hard hat is dancing.	A man wearing a hard hat is dancing.	5.0
+1	main-captions	MSRvid	2012test	2	none	none	A young child is riding a horse.	A child is riding a horse.	4.75
+2	main-captions	MSRvid	2012test	3	none	none	A man is feeding a mouse to a snake.	The man is feeding a mouse to the snake.	5.0
+3	main-captions	MSRvid	2012test	7	none	none	A woman is playing the guitar.	A man is playing guitar.	2.4
+4	main-captions	MSRvid	2012test	8	none	none	A woman is playing the flute.	A man is playing a flute.	2.75
+5	main-captions	MSRvid	2012test	10	none	none	A woman is cutting an onion.	A man is cutting onions.	2.615
+6	main-captions	MSRvid	2012test	15	none	none	A man is erasing a chalk board.	The man is erasing the chalk board.	5.0
+7	main-captions	MSRvid	2012test	23	none	none	A woman is carrying a boy.	A woman is carrying her baby.	2.333
+8	main-captions	MSRvid	2012test	27	none	none	Three men are playing guitars.	Three men are on stage playing guitars.	3.75
+9	main-captions	MSRvid	2012test	36	none	none	A woman peels a potato.	A woman is peeling a potato.	5.0
+10	main-captions	MSRvid	2012test	37	none	none	People are playing cricket.	Men are playing cricket.	3.2
+11	main-captions	MSRvid	2012test	39	none	none	A man is playing a guitar.	A man is playing a flute.	1.583
+12	main-captions	MSRvid	2012test	41	none	none	The cougar is chasing the bear.	A cougar is chasing a bear.	5.0
+13	main-captions	MSRvid	2012test	43	none	none	The man cut down a tree with an axe.	A man chops down a tree with an axe.	5.0
+14	main-captions	MSRvid	2012test	49	none	none	The man is playing the guitar.	A man is playing a guitar.	4.909
+15	main-captions	MSRvid	2012test	51	none	none	A man is finding something.	A woman is slicing something.	0.8
+16	main-captions	MSRvid	2012test	60	none	none	The girl sang into a microphone.	The lady sang into the microphone.	2.4
+17	main-captions	MSRvid	2012test	67	none	none	A man is climbing a rope.	A man climbs a rope.	5.0
+18	main-captions	MSRvid	2012test	79	none	none	Kittens are eating food.	Kittens are eating from dishes.	4.0
+19	main-captions	MSRvid	2012test	88	none	none	A man is speaking.	A man is spitting.	0.636
+20	main-captions	MSRvid	2012test	91	none	none	A woman is cooking eggs.	A woman is cooking something.	3.0
+21	main-captions	MSRvid	2012test	97	none	none	A man is playing a guitar.	A man is playing a trumpet.	1.714
+22	main-captions	MSRvid	2012test	98	none	none	An animal is chewing on something.	An animal is chewing on a key chain.	3.2
+23	main-captions	MSRvid	2012test	122	none	none	A man is playing a flute.	A man is playing guitar.	2.167
+24	main-captions	MSRvid	2012test	140	none	none	A man is playing soccer.	A man is playing flute.	1.0
+25	main-captions	MSRvid	2012test	147	none	none	A girl is riding a horse.	A girl is riding a bicycle.	1.917
+26	main-captions	MSRvid	2012test	153	none	none	A man is lifting weights in a garage.	A man is lifting weights.	4.25
+27	main-captions	MSRvid	2012test	159	none	none	An animal is biting a persons finger.	A slow loris is biting a persons finger.	3.0
+28	main-captions	MSRvid	2012test	173	none	none	A woman is reading.	A woman is kneading dough.	1.0
+29	main-captions	MSRvid	2012test	177	none	none	A man is crying.	A woman is dancing.	0.6
+30	main-captions	MSRvid	2012test	186	none	none	The lady cracked an egg into a bowl.	The man is cracking eggs into a bowl.	2.6
+31	main-captions	MSRvid	2012test	189	none	none	A band is performing on a stage.	A band is playing onstage.	5.0
+32	main-captions	MSRvid	2012test	194	none	none	Elephants are walking down a trail.	A herd of elephants are walking along a trail.	4.6
+33	main-captions	MSRvid	2012test	206	none	none	A man is playing a guitar.	A man plays the guitar.	5.0
+34	main-captions	MSRvid	2012test	211	none	none	A man sitting on the floor plays a guitar.	A man sitting on the floor in a room is strumming a guitar.	4.8
+35	main-captions	MSRvid	2012test	213	none	none	A puppy plays with a plastic container.	The dog is playing with a plastic container.	3.8
+36	main-captions	MSRvid	2012test	218	none	none	A man plays the violin.	A man is playing violin.	5.0
+37	main-captions	MSRvid	2012test	219	none	none	A man plays the piano.	A man is playing a piano.	5.0
+38	main-captions	MSRvid	2012test	220	none	none	A man is eating food.	A man is eating something.	4.2
+39	main-captions	MSRvid	2012test	222	none	none	A man is playing a basketball.	A man is playing a piano.	1.4
+40	main-captions	MSRvid	2012test	225	none	none	A toddler walks down a hallway.	A little girl is walking down a hallway.	3.6
+41	main-captions	MSRvid	2012test	228	none	none	A plane is landing.	A animated airplane is landing.	2.8
+42	main-captions	MSRvid	2012test	236	none	none	A panda is climbing.	A man is climbing a rope.	1.6
+43	main-captions	MSRvid	2012test	255	none	none	Kids are dancing on stage.	Some people are dancing on stage.	3.0
+44	main-captions	MSRvid	2012test	261	none	none	A man plays a guitar.	A man plays the piano.	1.4
+45	main-captions	MSRvid	2012test	264	none	none	A woman is slicing a meat.	A woman is singing on stage.	0.25
+46	main-captions	MSRvid	2012test	265	none	none	A woman is taking a picture.	A man is playing a guitar.	0.25
+47	main-captions	MSRvid	2012test	280	none	none	The man is riding a horse.	A woman is using a hoe.	0.0
+48	main-captions	MSRvid	2012test	286	none	none	A man is drilling a hole in a board.	Someone is drilling a hole in a piece of wood.	4.0
+49	main-captions	MSRvid	2012test	289	none	none	A man is fitting silencer on a pistol.	A man is adding a silencer to a gun.	4.5
+50	main-captions	MSRvid	2012test	301	none	none	Two little girls are talking on the phone.	A little girl is walking down the street.	0.5
+51	main-captions	MSRvid	2012test	305	none	none	Someone is stirring chili in a kettle.	Someone is stirring a pot of chili with a spoon.	3.8
+52	main-captions	MSRvid	2012test	306	none	none	The woman is cracking eggs into a bowl.	The lady broke raw eggs into a bowl.	4.8
+53	main-captions	MSRvid	2012test	315	none	none	A woman puts flour on a piece of meat.	A woman is putting flour onto some meat.	5.0
+54	main-captions	MSRvid	2012test	324	none	none	A man is talking on a phone.	A man is singing to a woman.	0.25
+55	main-captions	MSRvid	2012test	338	none	none	A man is playing an electronic keyboard.	A man is playing a flute.	1.2
+56	main-captions	MSRvid	2012test	340	none	none	A man is playing a guitar.	A man is eating a banana.	0.6
+57	main-captions	MSRvid	2012test	345	none	none	A man is jumping into water.	A man is cutting paper.	0.8
+58	main-captions	MSRvid	2012test	354	none	none	A man is playing a guitar.	A guy is playing an instrument.	3.8
+59	main-captions	MSRvid	2012test	362	none	none	A young man is playing the piano.	A woman is peeling a prawn.	0.0
+60	main-captions	MSRvid	2012test	364	none	none	A woman is mixing ingrediants.	A woman is mixing food in a bowl.	3.5
+61	main-captions	MSRvid	2012test	367	none	none	Someone is shredding cabbage leaves with a knife.	Someone is chopping some cabbage leaves.	4.5
+62	main-captions	MSRvid	2012test	372	none	none	A slow lori walks around.	A animal is walking around.	2.8
+63	main-captions	MSRvid	2012test	375	none	none	A little boy is vacuuming the floor.	A boy is vacuuming.	3.8
+64	main-captions	MSRvid	2012test	381	none	none	A woman is applying eye liner to her eyelid using an eye pencil.	A woman is applying cosmetics to her eyelid.	3.8
+65	main-captions	MSRvid	2012test	387	none	none	A man is making a bed.	A woman is playing a guitar.	0.0
+66	main-captions	MSRvid	2012test	392	none	none	A man plays a keyboard.	A person is playing the keyboard.	4.0
+67	main-captions	MSRvid	2012test	404	none	none	A rabbit is playing with a toy rabbit.	A bunny is playing with a stuffed bunny.	4.25
+68	main-captions	MSRvid	2012test	405	none	none	A plane rides on a road.	An airplane moves along a runway.	2.812
+69	main-captions	MSRvid	2012test	419	none	none	A man shoots a man.	A man with a pistol shoots another man.	4.25
+70	main-captions	MSRvid	2012test	420	none	none	A man plays the guitar.	The man sang and played his guitar.	3.0
+71	main-captions	MSRvid	2012test	424	none	none	A guy is playing hackysack	A man is playing a key-board.	1.0
+72	main-captions	MSRvid	2012test	426	none	none	One man is breaking cement on another man's chest.	A man breaks cinder blocks on another man.	3.75
+73	main-captions	MSRvid	2012test	431	none	none	A man is talking with other women on the beach.	A man is walking down the street.	0.0
+74	main-captions	MSRvid	2012test	434	none	none	The woman is dicing onions.	A woman is dancing in railway station.	0.4
+75	main-captions	MSRvid	2012test	446	none	none	A chef is preparing some food.	A chef prepared a meal.	4.0
+76	main-captions	MSRvid	2012test	451	none	none	The man talked to a girl over the internet camera.	A teenager talks to a girl over a webcam.	2.8
+77	main-captions	MSRvid	2012test	453	none	none	A turtle walks over the ground.	A large turtle crawls in the grass.	3.75
+78	main-captions	MSRvid	2012test	454	none	none	The lady cracked an egg for the mixer.	The lady sliced up the meat.	1.154
+79	main-captions	MSRvid	2012test	462	none	none	Five kittens are eating out of five dishes.	Kittens are eating food on trays.	2.75
+80	main-captions	MSRvid	2012test	464	none	none	A woman is slicing some tuna.	A woman is cutting raw fish.	2.8
+81	main-captions	MSRvid	2012test	468	none	none	A man playing the guitar.	A woman is painting her lips.	0.0
+82	main-captions	MSRvid	2012test	473	none	none	A man is playing a flute.	A dog is barking at a fly.	0.0
+83	main-captions	MSRvid	2012test	478	none	none	A baby rhino is walking around his pen with his mother.	A baby rhino is following an adult rhino.	3.4
+84	main-captions	MSRvid	2012test	488	none	none	The man used a sword to slice a plastic bottle.	A man sliced a plastic bottle with a sword.	5.0
+85	main-captions	MSRvid	2012test	495	none	none	A man is cleaning a fish on a kitchen counter.	A man is playing a flute.	0.8
+86	main-captions	MSRvid	2012test	504	none	none	A person is chopping coriander leaves.	A woman is slicing up some green leaves.	2.25
+87	main-captions	MSRvid	2012test	506	none	none	A man is pressing microwave buttons.	A man turns on the microwave.	2.75
+88	main-captions	MSRvid	2012test	507	none	none	A girl is riding a horse.	The girl trotted the horse.	4.5
+89	main-captions	MSRvid	2012test	514	none	none	Batman and Robin fly a helicopter over water.	A helicopter flies over water.	2.6
+90	main-captions	MSRvid	2012test	518	none	none	A woman pours oil into a skillet from a plastic bottle while she is talking.	An older woman is pouring oil into a skillet on the stove.	3.8
+91	main-captions	MSRvid	2012test	524	none	none	A woman is cutting some herbs.	A woman is chopping cilantro.	2.8
+92	main-captions	MSRvid	2012test	532	none	none	The lady put the skewered shimp in the hot water.	The lady fried the breaded meat in hot oil.	1.6
+93	main-captions	MSRvid	2012test	538	none	none	A woman is riding on a horse.	A man is shooting off guns.	0.0
+94	main-captions	MSRvid	2012test	539	none	none	The boy is playing the piano.	A band is playing on stage.	1.333
+95	main-captions	MSRvid	2012test	541	none	none	The cook is kneading the flour.	A woman is kneading tortilla dough.	2.6
+96	main-captions	MSRvid	2012test	550	none	none	A woman is riding a horse along a perimeter.	A dog is riding a skateboard.	0.6
+97	main-captions	MSRvid	2012test	551	none	none	A woman is putting her baby in a waste bin.	The woman is poking holes in the potato.	0.0
+98	main-captions	MSRvid	2012test	560	none	none	A cat is pouncing on a trampoline.	A man is slicing a tomato.	0.0
+99	main-captions	MSRvid	2012test	565	none	none	A man and woman are eating at a table.	A couple are eating a meal and talking.	3.0
+100	main-captions	MSRvid	2012test	567	none	none	A woman is riding on a horse.	A man is turning over tables in anger.	0.0
+101	main-captions	MSRvid	2012test	568	none	none	A man is screwing wood to a wall.	A man is giving a woman a massage.	0.2
+102	main-captions	MSRvid	2012test	569	none	none	A girl is playing a flute.	A girl plays a wind instrument.	3.2
+103	main-captions	MSRvid	2012test	573	none	none	A small baby is playing a guitar.	A boy sits on a bed, sings and plays a guitar.	2.0
+104	main-captions	MSRvid	2012test	575	none	none	A woman is chopping onion.	A man is doing a card trick.	0.0
+105	main-captions	MSRvid	2012test	577	none	none	A man and a woman walk through the woods.	The man and woman are walking.	3.0
+106	main-captions	MSRvid	2012test	578	none	none	A child is playing a computer game.	A boy is playing a game on a laptop.	3.091
+107	main-captions	MSRvid	2012test	580	none	none	Men are jumping into water from a bridge.	Men jump in a river.	2.75
+108	main-captions	MSRvid	2012test	607	none	none	A woman is peeling some fish.	A woman is pouring a yellow mixture on a frying pan.	1.2
+109	main-captions	MSRvid	2012test	610	none	none	People are playing baseball.	The cricket player hit the ball.	0.5
+110	main-captions	MSRvid	2012test	611	none	none	A person is boiling soup.	A woman is placing eggs into a pan.	0.25
+111	main-captions	MSRvid	2012test	640	none	none	A woman is dancing.	A man breaks a stick.	0.0
+112	main-captions	MSRvid	2012test	644	none	none	A ballet dancer is performing on stage.	The beaver is being petted.	0.0
+113	main-captions	MSRvid	2012test	652	none	none	A man shoots a basket.	A man is playing a guitar.	0.5
+114	main-captions	MSRvid	2012test	653	none	none	The elephants are bathing.	Two women are singing.	0.0
+115	main-captions	MSRvid	2012test	660	none	none	The man cut up an onion.	A man is dancing.	0.6
+116	main-captions	MSRvid	2012test	669	none	none	A woman puts cosmetics on her eyelid.	The woman is pencilling on eye shadow.	4.0
+117	main-captions	MSRvid	2012test	673	none	none	A woman and man are riding in a car.	A woman driving a car is talking to the man seated beside her.	3.4
+118	main-captions	MSRvid	2012test	682	none	none	A girl is dancing in a cage.	A onion is being chopped.	0.0
+119	main-captions	MSRvid	2012test	686	none	none	A cat is on a robot.	A man is eating bread.	0.0
+120	main-captions	MSRvid	2012test	697	none	none	The lady stirred up raw eggs in the bowl.	A woman is pouring eyes into a bowl.	1.0
+121	main-captions	MSRvid	2012test	704	none	none	A cow is eating grass.	A dog is pulling a girl down a hill.	0.0
+122	main-captions	MSRvid	2012test	709	none	none	The man stirred the sauce for the chicken.	The man is stirring oil.	2.4
+123	main-captions	MSRvid	2012test	716	none	none	A man jumping rope	A man is talking.	0.4
+124	main-captions	MSRvid	2012test	717	none	none	A woman is peeling an orange.	A woman cuts off a small piece of lemon rind.	1.8
+125	main-captions	MSRvid	2012test	723	none	none	Someone is beating an egg.	A woman stirs eggs in a bowl.	2.5
+126	main-captions	MSRvid	2012test	725	none	none	A man is cutting a potato.	A woman plays an electric guitar.	0.083
+127	main-captions	MSRvid	2012test	729	none	none	A man is buttering a piece of bread.	A slow loris hanging on a cord.	0.0
+128	main-captions	MSRvid	2012test	732	none	none	A woman cuts up some vegetables.	A woman is placing skewered food onto a cooker.	1.0
+129	main-captions	MSRvid	2012test	737	none	none	The lady cut the tail and body of a shrimp.	A woman is cleaning a shrimp.	4.5
+130	main-captions	MSRvid	2012test	743	none	none	A man plays an acoustic guitar.	A woman and dog are walking together.	0.0
+131	main-captions	MSRvid	2012train	5	none	none	A person is peeling shrimp.	A person is preparing shrimp.	3.6
+132	main-captions	MSRvid	2012train	6	none	none	A woman is cutting broccoli.	A woman is slicing broccoli.	5.0
+133	main-captions	MSRvid	2012train	12	none	none	A small dog laying on the bed.	A small dog is laying on a bed.	5.0
+134	main-captions	MSRvid	2012train	16	none	none	The man is slicing a potato.	A man is slicing potato.	5.0
+135	main-captions	MSRvid	2012train	18	none	none	The man is slicing a potato.	A man is slicing potato.	5.0
+136	main-captions	MSRvid	2012train	42	none	none	A person is peeling shrimp.	A man is peeling shrimp.	3.8
+137	main-captions	MSRvid	2012train	62	none	none	A woman is putting on sun glasses.	A woman puts on sunglasses.	5.0
+138	main-captions	MSRvid	2012train	66	none	none	A woman is slicing a potato.	A woman is slicing carrot.	2.5
+139	main-captions	MSRvid	2012train	68	none	none	Women are running.	Two women are running.	3.824
+140	main-captions	MSRvid	2012train	75	none	none	A man is playing a harp.	A woman is playing a guitar.	1.6
+141	main-captions	MSRvid	2012train	76	none	none	A man dives into a pool.	A man dives into a swimming pool.	5.0
+142	main-captions	MSRvid	2012train	78	none	none	The man is smashing garlic.	A man is smashing some garlic.	5.0
+143	main-captions	MSRvid	2012train	79	none	none	A man is cutting up a potato.	A man is cutting up carrots.	2.375
+144	main-captions	MSRvid	2012train	97	none	none	A man is slicing an onion.	A man slices an onion.	5.0
+145	main-captions	MSRvid	2012train	124	none	none	A man is dancing.	A man is singing.	1.25
+146	main-captions	MSRvid	2012train	125	none	none	A man is running.	A man is singing.	1.25
+147	main-captions	MSRvid	2012train	134	none	none	The man is hiking in the woods.	A man is tracking in the wood.	3.0
+148	main-captions	MSRvid	2012train	137	none	none	A man is playing a flute.	A man is playing guitar.	2.167
+149	main-captions	MSRvid	2012train	138	none	none	A man is riding a bike.	A woman is riding a horse.	1.4
+150	main-captions	MSRvid	2012train	145	none	none	A woman is playing the guitar.	A person is playing a guitar.	4.0
+151	main-captions	MSRvid	2012train	161	none	none	A man is eating a pizza.	A man is eating a food.	3.6
+152	main-captions	MSRvid	2012train	175	none	none	A man is playing guitar.	A man plays a guitar.	4.857
+153	main-captions	MSRvid	2012train	181	none	none	The man is buttering the bread.	The man is stirring the rice.	0.4
+154	main-captions	MSRvid	2012train	182	none	none	A woman is hitting a man.	A woman is taking a bath.	0.2
+155	main-captions	MSRvid	2012train	185	none	none	Three men are dancing.	Women are dancing.	1.3
+156	main-captions	MSRvid	2012train	186	none	none	A man is speaking.	A man is dancing.	1.2
+157	main-captions	MSRvid	2012train	187	none	none	A man is dancing.	A man is speaking.	1.2
+158	main-captions	MSRvid	2012train	194	none	none	A person is combing a cat hair.	A person is brushing a cat.	4.4
+159	main-captions	MSRvid	2012train	206	none	none	A man is playing the drums.	A man is playing guitar.	1.8
+160	main-captions	MSRvid	2012train	212	none	none	A man is peeling a banana.	A woman is peeling a potato.	1.4
+161	main-captions	MSRvid	2012train	215	none	none	A boy is riding a horse.	A monkey is riding a bus.	0.4
+162	main-captions	MSRvid	2012train	216	none	none	The puppy tried to get out of the tub.	A puppy is trying to get out of a bathtub.	4.4
+163	main-captions	MSRvid	2012train	262	none	none	A woman is peeling an onion.	The woman is slicing green onions.	3.25
+164	main-captions	MSRvid	2012train	263	none	none	A person is mixing a pot of rice.	A person is peeling a potato.	0.778
+165	main-captions	MSRvid	2012train	274	none	none	A man is playing a guitar.	The girl is playing the guitar.	2.25
+166	main-captions	MSRvid	2012train	276	none	none	A lion cub tries to climb a fence.	A lion tries to climb over a wall.	2.75
+167	main-captions	MSRvid	2012train	277	none	none	A man is talking on a cell phone.	A guy is talking into a microphone.	2.0
+168	main-captions	MSRvid	2012train	278	none	none	A man is playing a guitar.	A man is cleaning a cd.	0.833
+169	main-captions	MSRvid	2012train	285	none	none	Someone is pouring chicken broth into a pot.	The man is pouring broth into the pot.	3.75
+170	main-captions	MSRvid	2012train	303	none	none	A woman is chopping an onion.	A woman is chopping garlic with a knife.	1.8
+171	main-captions	MSRvid	2012train	317	none	none	The man is shaking hands with other men.	A man is shaking another mans hand.	4.333
+172	main-captions	MSRvid	2012train	318	none	none	A target is being hit with gun fire.	The target was being shot with bullets.	4.214
+173	main-captions	MSRvid	2012train	330	none	none	A woman is applying makeup.	A man is playing a guitar.	0.0
+174	main-captions	MSRvid	2012train	332	none	none	A woman is slicing a big pepper.	A person is cutting a green pepper.	3.4
+175	main-captions	MSRvid	2012train	336	none	none	A man puts some cheese on a pizza.	A man is sprinkling shredded cheese on a pizza.	4.2
+176	main-captions	MSRvid	2012train	340	none	none	A man is staring at a leaf.	A man is slicing a vegetable.	0.8
+177	main-captions	MSRvid	2012train	346	none	none	A person is picking a komodo dragon and putting it in a box.	A person is placing a baby komodo dragon into a container.	4.2
+178	main-captions	MSRvid	2012train	352	none	none	A person drops a camera down an escelator.	A man tosses a bag down an escalator.	2.75
+179	main-captions	MSRvid	2012train	376	none	none	The man is playing the keyboards.	A man is playing guitar.	2.2
+180	main-captions	MSRvid	2012train	377	none	none	A woman is applying eye shadow.	A woman is washing a bowl.	1.2
+181	main-captions	MSRvid	2012train	379	none	none	A woman is playing the flute.	A man is playing a keyboard.	1.0
+182	main-captions	MSRvid	2012train	380	none	none	A man is riding on a horse.	A woman is riding an elephant.	1.533
+183	main-captions	MSRvid	2012train	385	none	none	A man is playing flute.	A man is dancing.	0.2
+184	main-captions	MSRvid	2012train	388	none	none	A tiger is walking around his cage.	A tiger walks around aimlessly.	3.0
+185	main-captions	MSRvid	2012train	389	none	none	A person pours cooking oil into a pot.	A person is pouring olive oil into a pot on the stove.	3.8
+186	main-captions	MSRvid	2012train	390	none	none	A woman is cutting potato.	A woman is riding a horse.	0.75
+187	main-captions	MSRvid	2012train	393	none	none	A parrot is talking.	A parrot is talking into a microphone.	3.0
+188	main-captions	MSRvid	2012train	396	none	none	A man is singing into a microphone.	A man is dancing in the rain.	0.4
+189	main-captions	MSRvid	2012train	403	none	none	A woman is exercising.	A woman lifts weights.	3.4
+190	main-captions	MSRvid	2012train	405	none	none	A child runs into and out of the ocean waves.	A young boy is running toward and from the ocean waves.	3.8
+191	main-captions	MSRvid	2012train	407	none	none	A man is playing the piano.	A man is playing a wooden flute.	1.4
+192	main-captions	MSRvid	2012train	408	none	none	A guy is riding a horse.	A man is riding a horse in the desert.	3.4
+193	main-captions	MSRvid	2012train	412	none	none	A dog is stealing food from a refrigerator.	The dog took something out of the refrigerator.	3.2
+194	main-captions	MSRvid	2012train	414	none	none	A person uses a blowtorch on two cameras.	A person is burning cameras.	2.333
+195	main-captions	MSRvid	2012train	422	none	none	A man is putting a knife in a vice.	A man is getting into a car in a garage.	0.8
+196	main-captions	MSRvid	2012train	427	none	none	A woman is cooking meat.	A man is speaking.	0.0
+197	main-captions	MSRvid	2012train	431	none	none	A puppy is trying to come out from the sink.	The puppy tried to get out of the tub.	3.0
+198	main-captions	MSRvid	2012train	436	none	none	A person is folding a square paper piece.	A person folds a piece of paper.	3.75
+199	main-captions	MSRvid	2012train	441	none	none	The boy is playing the piano.	The woman is pouring oil into the pan.	0.0
+200	main-captions	MSRvid	2012train	448	none	none	A man is cutting a potato.	A woman is climbing a rock wall.	0.0
+201	main-captions	MSRvid	2012train	449	none	none	A woman is feeding a baby.	A man is adding water to pan.	0.0
+202	main-captions	MSRvid	2012train	450	none	none	A man is playing a guitar.	A woman is riding a horse.	0.5
+203	main-captions	MSRvid	2012train	453	none	none	A woman is mixing eggs.	The woman is eating.	0.5
+204	main-captions	MSRvid	2012train	464	none	none	A man is riding on a boat.	A man is tying in the machine.	0.4
+205	main-captions	MSRvid	2012train	474	none	none	A man is serving cake.	A man seasoning quail.	0.75
+206	main-captions	MSRvid	2012train	476	none	none	Someone is greating a carrot.	A woman is grating an orange food.	2.5
+207	main-captions	MSRvid	2012train	484	none	none	A man is standing on a roof top playing a violin.	A man is on a roof dancing.	1.8
+208	main-captions	MSRvid	2012train	494	none	none	A monkey is karate kicking a person.	A monkey pratices martial arts.	2.5
+209	main-captions	MSRvid	2012train	506	none	none	A man shappens a knife.	A man carries a women.	0.5
+210	main-captions	MSRvid	2012train	511	none	none	A woman is brushing her feet.	A woman is chopping an onion.	0.4
+211	main-captions	MSRvid	2012train	522	none	none	A woman is removing skin from some meat.	A woman is slicing a tomato.	1.2
+212	main-captions	MSRvid	2012train	528	none	none	A man is stirring ingredients in a bowl.	A man is beating two eggs in a bowl with a fork.	2.75
+213	main-captions	MSRvid	2012train	533	none	none	A woman is relaxing in a bath tub.	A woman is stabbing a potato with a fork.	0.4
+214	main-captions	MSRvid	2012train	534	none	none	A woman is adding oil on fishes.	The woman is cutting potatoes.	0.6
+215	main-captions	MSRvid	2012train	535	none	none	A woman is writing something.	A woman is chopping green onions.	0.8
+216	main-captions	MSRvid	2012train	539	none	none	A baby eats his food.	A baby is being fed peas.	3.0
+217	main-captions	MSRvid	2012train	540	none	none	A man is slicing a carrot by a machine.	A man is standing in the rain.	0.4
+218	main-captions	MSRvid	2012train	548	none	none	A man is playing a guitar and singing on a stage.	A man is playing the electric guitar.	3.2
+219	main-captions	MSRvid	2012train	552	none	none	A boy is playing a piano.	A man is singing and playing a guitar.	1.25
+220	main-captions	MSRvid	2012train	555	none	none	The person is starting a fire.	A person makes fire.	5.0
+221	main-captions	MSRvid	2012train	579	none	none	A woman is riding a horse on the beach.	A woman is washing a bowl.	0.2
+222	main-captions	MSRvid	2012train	580	none	none	A person is chopping an herb.	A man is finely chopping a green substance.	3.0
+223	main-captions	MSRvid	2012train	582	none	none	A woman is collecting tap water in a mug.	A boy is filling a pitcher with water.	1.4
+224	main-captions	MSRvid	2012train	585	none	none	A person is whisking eggs in a bowl.	A woman is beating two eggs in a bowl using a wire whisk.	3.8
+225	main-captions	MSRvid	2012train	591	none	none	The dog could not figure out how to get a stick out the doggy door.	A dog is trying to get through his dog door.	2.75
+226	main-captions	MSRvid	2012train	593	none	none	A woman is mixing eggs in the bowl.	A man is doing push ups.	0.0
+227	main-captions	MSRvid	2012train	608	none	none	The lady made some slices on the shrimp.	A chef is slicing a shrimp.	2.8
+228	main-captions	MSRvid	2012train	617	none	none	Someone is mixing a liquid.	A man is playing a guitar.	0.0
+229	main-captions	MSRvid	2012train	634	none	none	A woman is slicing big pepper.	A man is playing an instrument.	0.0
+230	main-captions	MSRvid	2012train	643	none	none	The animal with the big eyes is eating.	A slow loris is eating.	2.6
+231	main-captions	MSRvid	2012train	645	none	none	A baby is crawling happily.	A cat is walking on hardwood floor.	0.1
+232	main-captions	MSRvid	2012train	648	none	none	A tiger club is playing with a ball.	A person is chopping shrimp with a knife.	0.0
+233	main-captions	MSRvid	2012train	653	none	none	A woman is slicing fruit.	Two women are slicing some lemons.	2.0
+234	main-captions	MSRvid	2012train	655	none	none	The flag was moving in the air.	A flag is waving.	3.75
+235	main-captions	MSRvid	2012train	664	none	none	The baby laughed in his car seat.	A baby is laughing.	3.1
+236	main-captions	MSRvid	2012train	669	none	none	A dog knocks a boy into the water twice.	A dog pushes a toddler into a rain puddle.	2.692
+237	main-captions	MSRvid	2012train	674	none	none	The bird is taking a bath under the faucet.	A bird is bathing in a sink.	4.429
+238	main-captions	MSRvid	2012train	675	none	none	A man plays the guitar and sings.	A man is singing and playing a guitar.	5.0
+239	main-captions	MSRvid	2012train	684	none	none	Women are holding each other and dancing together.	Two men are playing table tennis.	0.0
+240	main-captions	MSRvid	2012train	690	none	none	The man is trying to feed the snake with a mouse.	A man is working on his laptop.	0.8
+241	main-captions	MSRvid	2012train	707	none	none	A tiger is playing with his trainer.	A tiger attacks a man.	1.333
+242	main-captions	MSRvid	2012train	716	none	none	A cat is playing with a watermelon on a floor.	A man is pouring oil into a pan.	0.0
+243	main-captions	MSRvid	2012train	718	none	none	A cat retrieves an object out of a dish of water.	The cat tried to eat the corn on the cob.	0.6
+244	main-captions	MSRvid	2012train	721	none	none	A chef is slicing carrot.	A person is drawing a picture.	0.0
+245	main-captions	MSRvid	2012train	733	none	none	A woman is adding some mushrooms and liquid to a pot.	A young man is playing the guitar.	0.0
+246	main-captions	MSRvid	2012train	734	none	none	A man is passionately playing a guitar in front of an audience.	A woman is peeling a potato.	0.0
+247	main-captions	MSRvid	2012train	738	none	none	Someone drew on Washington's face on the dollar.	A person draws on a dollar bill.	3.4
+248	main-captions	MSRvid	2012train	739	none	none	The girl is slicing an onion.	A woman is chopping an onion into small pieces.	2.2
+249	main-captions	MSRvid	2012train	743	none	none	The man is aiming a gun.	A boy is playing on a toy phone.	0.0
+250	main-captions	images	2014	0	none	none	A cat standing on tree branches.	A black and white cat is high up on tree branches.	3.6
+251	main-captions	images	2014	5	none	none	The lamb is looking at the camera.	A small bird standing on a log at the waters edge.	0.0
+252	main-captions	images	2014	13	none	none	A bull standing in the field.	A brown horse stands in a lush green field.	1.4
+253	main-captions	images	2014	16	none	none	The black and white cows pause in front of the gate.	A black cow and a brown cow stands in a plain in front of an uprooted tree.	2.2
+254	main-captions	images	2014	20	none	none	A group of four people in a dinner having cake.	Four people eating dessert around a table.	3.8
+255	main-captions	images	2014	25	none	none	A group of people eat at a table outside.	A group of elderly people pose around a dining table.	2.6
+256	main-captions	images	2014	34	none	none	Older man wearing beret with mountains in background.	A sheep in the morning mist with trees in the background.	0.4
+257	main-captions	images	2014	35	none	none	The cows feed in the trough.	The brown and white cows are eating in the trough.	4.0
+258	main-captions	images	2014	36	none	none	A small red and gray bird perched amongst the bare branches of a tree.	A red and brown bird is perched on branches.	2.25
+259	main-captions	images	2014	39	none	none	A black and wood colored dining room set in a small apartment.	Black and brown table in living room setting.	3.2
+260	main-captions	images	2014	44	none	none	A bag of cotton in front of a couch.	Calico cat sitting on step in front of a door.	0.0
+261	main-captions	images	2014	56	none	none	Two horses standing in a field with trees in the background.	A black and white bird on a body of water with grass in the background.	0.4
+262	main-captions	images	2014	58	none	none	Red double decker bus driving down a street.	A red two story bus driving along the street.	3.8
+263	main-captions	images	2014	71	none	none	The lamb is looking at the camera.	A cat looking at the camera.	0.8
+264	main-captions	images	2014	72	none	none	A red double decker bus on a crowded street.	A double decker bus on a city street.	4.2
+265	main-captions	images	2014	73	none	none	A jockey riding a horse in a pen.	A jockey rides a horse at a gallop.	3.6
+266	main-captions	images	2014	92	none	none	The udders of a dairy cow that is standing in a pasture near a large building.	The black and brown cow is standing on the green grass.	2.0
+267	main-captions	images	2014	97	none	none	A woman posing by a pillar with a U2 sign.	"a woman is standing by a pillar where ""u2"" is written."	4.2
+268	main-captions	images	2014	108	none	none	One Asian and one occasion woman in glasses smiling with their thumbs up.	Two women are posing for the camera and giving the thumbs up sign.	3.4
+269	main-captions	images	2014	109	none	none	A black train moves down the tracks.	A mostly black train on a track.	3.0
+270	main-captions	images	2014	120	none	none	The brown dog is resting his head on a white pillow.	A tan dog is lying on a couch and has its head on a white pillow.	3.4
+271	main-captions	images	2014	134	none	none	The black and brown cow is looking at the camera.	The black and white bull is looking at the camera.	3.6
+272	main-captions	images	2014	145	none	none	A smiling woman holding a small baby.	Two smiling women holding a baby.	3.0
+273	main-captions	images	2014	159	none	none	Two airplanes in the sky.	A plane in the sky.	2.4
+274	main-captions	images	2014	160	none	none	A coal train traveling down the tracks.	An old train sits idle on the tracks.	2.0
+275	main-captions	images	2014	164	none	none	A cat looking at the camera.	A grey, black, and white cat looking at the camera.	4.0
+276	main-captions	images	2014	165	none	none	World news headlines displayed on a large screen.	A man dressed for a race relaxes.	0.0
+277	main-captions	images	2014	166	none	none	Two women posing with a baby.	Two smiling women holding a baby.	4.0
+278	main-captions	images	2014	181	none	none	A red and white plane flying on a sunny day.	Red and white plane flying through the air.	4.2
+279	main-captions	images	2014	183	none	none	A black and white photo of an old train station.	A black and white photo of a cat sitting on a sofa.	0.8
+280	main-captions	images	2014	184	none	none	A bicycle in front of some ruins.	A pink bicycle is in front of a building.	2.2
+281	main-captions	images	2014	187	none	none	Red double decker bus on side of street.	A red double decker bus on a crowded street.	3.8
+282	main-captions	images	2014	191	none	none	A bus drives down a busy road.	A green bus drives down a road.	3.2
+283	main-captions	images	2014	193	none	none	An elderly Asian couple pose with a yawning baby at a dinner table.	An older Asian couple poses with a newborn baby at the dinner table.	4.4
+284	main-captions	images	2014	194	none	none	Brown and white ducks walking on green grass.	A red and white plane flying on a sunny day.	0.0
+285	main-captions	images	2014	215	none	none	People ride mopeds in an urban setting.	People riding horses in a fenced area.	1.4
+286	main-captions	images	2014	220	none	none	Large silver locomotive engine in a shed.	The silver train is parked in a station.	2.6
+287	main-captions	images	2014	224	none	none	Two people sitting on a large motorcycle.	Two eagles sitting on a long branch.	0.4
+288	main-captions	images	2014	252	none	none	A scantily clad woman is standing next to a car.	A yellow and orange bird hold on to the side of a cage.	0.0
+289	main-captions	images	2014	253	none	none	Several televisions are on the floor and stacked up on top of one another.	Three televisions, on on the floor, the other two on a box.	3.2
+290	main-captions	images	2014	254	none	none	Sheep are grazing in a grassy field near a stand of trees.	Sheep are grazing in the field in front of a line of trees.	4.6
+291	main-captions	images	2014	266	none	none	The small dog protects its owner.	The back of the stop sign is adorned with stickers.	0.0
+292	main-captions	images	2014	267	none	none	Children looking a sheep.	Child milking a cow outside.	0.6
+293	main-captions	images	2014	281	none	none	A black-and-white photo of a loveseat.	A black and white photo of an old train station.	1.2
+294	main-captions	images	2014	282	none	none	the back of a stop sign with many stickers on it.	The back of a sign with stickers on.	3.8
+295	main-captions	images	2014	284	none	none	Living room or den with large screen television.	Living room with tan furniture and flat screen television.	3.2
+296	main-captions	images	2014	287	none	none	Two women sitting in lawn chairs.	Two women are sitting in a cafe.	2.6
+297	main-captions	images	2014	288	none	none	A doubly decker red bus driving down the road.	A red double decker bus driving down a street.	5.0
+298	main-captions	images	2014	299	none	none	The black bird is sitting on the ground.	The back of a pig under a tree with a cow in the background.	0.0
+299	main-captions	images	2014	301	none	none	A Das Air Cargo plane sits on the runway.	A passenger plane parked on a runway.	3.2
+300	main-captions	images	2014	303	none	none	A cat sleeps on purple sheet.	A black and white cat sleeps on a purple blanket.	4.0
+301	main-captions	images	2014	305	none	none	A close-up of a cat on a cream sofa.	A close-up of a horse.	1.2
+302	main-captions	images	2014	312	none	none	A kitchen with wood cabinets and dining table.	A kitchen with wooden cabinets and furniture.	4.4
+303	main-captions	images	2014	314	none	none	A motorcycles is parked near a wall covered with a graffiti scene of a cityscape.	A motorcycle is parked by a mural of a city in the evening.	3.4
+304	main-captions	images	2014	351	none	none	Two boys sit facing one another at a table and one points at the other.	Two people sit facing each other at a table as one points at the other.	4.4
+305	main-captions	images	2014	354	none	none	Two white dogs are swimming in the water.	The birds are swimming in the water.	0.8
+306	main-captions	images	2014	380	none	none	Large white cruise ship floating on water.	Large cruise ship floating on the water.	4.6
+307	main-captions	images	2014	394	none	none	Two bald eagles perched on a branch.	Two eagles are perched on a branch.	4.2
+308	main-captions	images	2014	395	none	none	A backpack standing beside a train.	A social gathering of people in a restaurant.	0.0
+309	main-captions	images	2014	403	none	none	The bird is sitting on the branch.	A red and brown bird is perched on branches.	3.2
+310	main-captions	images	2014	414	none	none	A group of peoples posing in fur hats.	A group of cyclists in green and white with spectators looking on.	0.0
+311	main-captions	images	2014	418	none	none	Black domestic cat lying on brown table.	A grey cat laying on a dining table.	1.4
+312	main-captions	images	2014	420	none	none	Four children looking at barn animals.	Children looking a sheep.	3.2
+313	main-captions	images	2014	421	none	none	A black and white cat playing with a wool basket.	A black and white cat lying on a blanket.	1.8
+314	main-captions	images	2014	449	none	none	Two men on boat floating on the water.	A wooden yacht on the ocean.	1.8
+315	main-captions	images	2014	457	none	none	A man doing a wheelie on a mountain bike.	A woman posing by a pillar with a U2 sign.	0.0
+316	main-captions	images	2014	471	none	none	A woman equestrian riding a horse.	The woman is riding on the brown horse.	3.8
+317	main-captions	images	2014	474	none	none	Train going down the tracks.	A black steam train traveling on the railroad tracks.	3.8
+318	main-captions	images	2014	479	none	none	A white plane on the runway.	A white Swiss airplane approaches the runway.	4.0
+319	main-captions	images	2014	483	none	none	The white ducks are standing on the ground.	A woman in a black hat is standing by the subway.	0.0
+320	main-captions	images	2014	486	none	none	A group of people eat at a table outside.	A group of people sitting at a restaurant table.	3.2
+321	main-captions	images	2014	511	none	none	Young baby girl sitting on table.	A woman with a smiling baby sitting on the table.	1.6
+322	main-captions	images	2014	527	none	none	Two cats are close together inside and black and white furry enclosure.	Two baby kittens are sitting inside a cow-schemed, fur-covered dome.	3.6
+323	main-captions	images	2014	537	none	none	A group of people sitting on a small sofa next to a kitchen.	A group of people standing near a small child sitting on a horse.	1.0
+324	main-captions	images	2014	544	none	none	A man jumping his dirt bike.	A man on a bike jumping through the air.	3.6
+325	main-captions	images	2014	549	none	none	A black and white photo of a bottle sitting atop a rock carving in front of a line of bushes.	A bottle of water sitting on a stone with other stones and a wall in the background.	2.0
+326	main-captions	images	2014	552	none	none	A black and white cat is sitting on a brown chair looking up.	Black and white cat sitting on wood chair looking up.	3.6
+327	main-captions	images	2014	553	none	none	A black and white horned cow standing in a field.	A large black and white cow in a field.	4.0
+328	main-captions	images	2014	563	none	none	A long-haired man with a hat standing between two large, half-empty Coke bottles.	A man with a cap and jacket walking between two large bottles.	3.6
+329	main-captions	images	2014	570	none	none	An AeroMexico jet taxing along a runway.	A silver AreoMexico Jet Liner sitting on the tarmac.	3.2
+330	main-captions	images	2014	571	none	none	A red bird and four other birds sitting in the snow.	Five birds stand on the snow.	2.8
+331	main-captions	images	2014	575	none	none	An older Asian couple poses with a newborn baby at the dinner table.	A group of elderly people pose around a dining table.	2.4
+332	main-captions	images	2014	581	none	none	Domestic cat looking out window.	A white cat looking out of a window.	3.6
+333	main-captions	images	2014	582	none	none	Two cows graze in a field.	A brown horse in a green field.	1.8
+334	main-captions	images	2014	589	none	none	A person is standing underneath an overpass near a highway.	A person walks a dog along the water's edge.	0.2
+335	main-captions	images	2014	591	none	none	A woman and child push strollers down the sidewalk.	A women and a young girl walking pushchairs along the sidewalk.	3.4
+336	main-captions	images	2014	594	none	none	A white bird flying up onto a tree.	A white cat laying on a sheet.	1.2
+337	main-captions	images	2014	602	none	none	A woman at the dining table with wine, beer, and lemons.	Four women and two men sit at a long table in a restaurant.	1.4
+338	main-captions	images	2014	605	none	none	A laptop computer and a computer monitor.	A laptop and a PC at a workstation.	2.6
+339	main-captions	images	2014	609	none	none	A white cat laying on an office chair.	A white cat laying on a sheet.	2.4
+340	main-captions	images	2014	610	none	none	A small yellow boat sitting on a tropical beach.	A small girl sits on a stone ledge near a white flowering plant.	0.0
+341	main-captions	images	2014	611	none	none	Two women are sheering a white sheep inside of a wooden building.	Two women shearing a white sheep in a wooden stall.	4.0
+342	main-captions	images	2014	616	none	none	A man with glasses and two plastic bottles in the foreground.	A man talking with two water bottles sitting in front of him.	3.0
+343	main-captions	images	2014	623	none	none	A close-up of a brown horse.	A close-up of a horse.	4.0
+344	main-captions	images	2014	630	none	none	An office with multiple desks and green walls.	Small office space with bright green walls.	4.0
+345	main-captions	images	2014	631	none	none	A woman leading a white horse.	A man in a tux on a white horse.	2.0
+346	main-captions	images	2014	642	none	none	A man on a motorcycle performing a wheelie.	Motorcyclist performing a wheelie next to a car.	4.0
+347	main-captions	images	2014	645	none	none	Left side of a silver train engine.	A close-up of a black train engine.	2.2
+348	main-captions	images	2014	654	none	none	Blue couch and twin bed in a living room.	A leather couch and wooden table in a living room.	2.2
+349	main-captions	images	2014	664	none	none	A white bicycle stands on a floor.	Old style bicycle parked on floor.	3.4
+350	main-captions	images	2014	665	none	none	A bird eating from a bird feeder.	A yellow bird eating fruit on a bird feeder.	3.2
+351	main-captions	images	2014	666	none	none	Black bird sitting on a concrete slab.	Black bird standing on concrete.	4.0
+352	main-captions	images	2014	668	none	none	Dark colored dog standing in grassy field.	A grey dog standing in a grassy field.	3.2
+353	main-captions	images	2014	669	none	none	A young blonde girl wearing a smile and a bicycle helmet.	A young girl wearing a bike helmet with a bicycle in the background.	3.8
+354	main-captions	images	2014	676	none	none	Two brown horses standing in grassy field.	Brown horse standing in middle of grassy field.	3.0
+355	main-captions	images	2014	683	none	none	Boy lying on couch with small white dog.	A small boy laying on a sofa with a dog.	4.0
+356	main-captions	images	2014	691	none	none	A woman is laying down on the floor and holding a baby up above her.	A man is laying on the floor holding a baby up above him.	2.2
+357	main-captions	images	2014	699	none	none	A grey house with a red door.	House with a red door.	3.4
+358	main-captions	images	2014	701	none	none	A woman with a white horse.	A woman leading a white horse.	3.8
+359	main-captions	images	2014	704	none	none	Depressed woman sitting on couch.	Older woman holding newborn baby.	0.0
+360	main-captions	images	2014	714	none	none	An elderly woman catches a ride on the back of the bicycle.	The boats are on the water located in front of the mountain.	0.0
+361	main-captions	images	2014	721	none	none	The brown and white cows are eating in the trough.	Brown and white cows are eating from a trough.	4.8
+362	main-captions	images	2014	732	none	none	"A young woman with outstretched arms stands in front of a ""Going Places"" bus."	TThe girl is standing in front of the open door of the bus.	3.0
+363	main-captions	images	2014	734	none	none	Black and white cow standing in grassy field.	A black and white photo of a man standing next to a bus.	0.8
+364	main-captions	images	2014	736	none	none	A group of people having a meal outside.	A group of people eat at a table outside.	4.2
+365	main-captions	images	2014	739	none	none	Two cats sitting together on the sofa looking out the window.	Two cats sit on the back of a couch looking out the window.	4.2
+366	main-captions	images	2014	742	none	none	A man sitting on a bench looking at a dog on a leash sitting on sidewalk.	A women holds a small baby while sitting on a sofa.	0.0
+367	main-captions	images	2014	747	none	none	A blue scooter parked on a sidewalk.	A blue moped parked on the sidewalk.	4.2
+368	main-captions	images	2015	16	none	none	Two gray dogs run together over the green grass.	Two grey dogs running in green grass.	4.6
+369	main-captions	images	2015	26	none	none	Two dogs are running in a grassy field	Two dogs running through a grassy field.	5.0
+370	main-captions	images	2015	27	none	none	The couple is sitting near the water in lawn chairs.	The boy hops from one picnic table to the other in the park.	0.0
+371	main-captions	images	2015	40	none	none	German Shephard jumping through black hoop while people watch	A dog jumps through a hoop.	3.2
+372	main-captions	images	2015	50	none	none	A group of people standing in the street	A woman addressing a diverse group of people standing in the street.	2.6
+373	main-captions	images	2015	54	none	none	A dog runs on brown grass.	A wet dog runs through the yellow grass holding a tennis ball.	2.2
+374	main-captions	images	2015	61	none	none	The man and two young boys jump on a trampoline.	A man and two boys jump on a trampoline.	4.6
+375	main-captions	images	2015	62	none	none	A man eating an apple, sitting in public.	A man sits in a public place eating an apple.	5.0
+376	main-captions	images	2015	68	none	none	two young girls hug each other in the grass.	two young girls holding each other on the grassy ground	4.6
+377	main-captions	images	2015	69	none	none	Two white dogs are walking through deep white snow.	Two white dogs walk through a huge bank of mountain snow.	4.6
+378	main-captions	images	2015	70	none	none	Four girls in swimsuits are playing volleyball at the beach.	Four women in bikinis are playing volleyball on the beach.	4.8
+379	main-captions	images	2015	119	none	none	Kids playing ball in the park.	Two dogs playing by the shore.	0.6
+380	main-captions	images	2015	124	none	none	A man in a dress suit is riding a bike down the paved road.	A man is using a large pole to remove letters from a sign.	0.2
+381	main-captions	images	2015	126	none	none	A black and white dog is running in a grassy garden surrounded by a white fence.	A black and white dog is jumping over a hurdle.	2.2
+382	main-captions	images	2015	128	none	none	The group of hikers is resting in front of a mountain.	Several hikers rest with their gear in front of a mountain.	4.8
+383	main-captions	images	2015	140	none	none	Two girls in blue and teal dresses and large hats are standing next to a large tree trunk.	A woman, a little boy, and a tiny baby are standing in front of a cow statue.	1.2
+384	main-captions	images	2015	165	none	none	A woman is sitting up asleep with her head resting on her hand.	A man who is resting his head on his hand.	2.2
+385	main-captions	images	2015	166	none	none	A young boy jumping into a lake.	The boy is jumping into a lake.	4.6
+386	main-captions	images	2015	178	none	none	A black dog is chasing two birds on the shore of the ocean.	A dog is running along the beach beside the ocean.	2.6
+387	main-captions	images	2015	180	none	none	A man and a woman on a bench.	A man and woman sit on a park bench.	3.6
+388	main-captions	images	2015	198	none	none	The brown dog is laying down on a blue sheet.	A brown dog and two black dogs in an overgrown grassy field.	0.8
+389	main-captions	images	2015	216	none	none	Two dogs fighting in the snow.	Two dogs standing in the snow.	2.4
+390	main-captions	images	2015	217	none	none	The man and two young boys jump on a trampoline.	A man and two boys are bouncing on a trampoline.	4.8
+391	main-captions	images	2015	248	none	none	A man practicing boxing	A man practices boxing	5.0
+392	main-captions	images	2015	253	none	none	The girl with the blue bucket splashes beneath the pier.	The girl in the ski jacket is walking near the buildings.	0.4
+393	main-captions	images	2015	262	none	none	A group of people stand in the sand looking out at the water.	A group of people are standing on the beach in front of some boats.	3.2
+394	main-captions	images	2015	268	none	none	A black dog is running after a white dog in the snow.	Black dog chasing brown dog through snow	1.8
+395	main-captions	images	2015	291	none	none	A small white dog running across a lawn.	A small white dog running	3.2
+396	main-captions	images	2015	294	none	none	The white and brown dog is running quickly through the grass.	The big white dog is running in the grass.	3.4
+397	main-captions	images	2015	323	none	none	A black dog is running in the grass.	The black dog is running through the grass.	4.8
+398	main-captions	images	2015	352	none	none	A black and white dog swimming in clear water.	A small black and white dog is swimming in water.	4.2
+399	main-captions	images	2015	359	none	none	Black and white dog running through water.	A black and white dog is running through grass.	2.6
+400	main-captions	images	2015	369	none	none	two dogs running in the snow	A dog laying in the snow.	2.2
+401	main-captions	images	2015	370	none	none	A golden dog is running through the snow.	A pack of sled dogs pulling a sled through a town.	1.4
+402	main-captions	images	2015	372	none	none	A skateboarder on a city street.	A skateboarder in the air at a big, outdoor ramp.	2.6
+403	main-captions	images	2015	390	none	none	A girl bounces in a bounce house.	A girl dances like a man in costume	1.2
+404	main-captions	images	2015	402	none	none	A brown and white dog is catching a tennis ball while standing on its hind legs.	the brown and white dog is carrying a stick in his mouth.	1.8
+405	main-captions	images	2015	407	none	none	a wet black dog with a red collar is in the river	A black dog with a red collar wading through the water.	4.0
+406	main-captions	images	2015	416	none	none	Two people are walking by the ocean.	Two men in fleeces and hats looking at the camera.	0.4
+407	main-captions	images	2015	419	none	none	Two little girls in pink are dancing.	Two ladies jogging on a path near the waterfront.	0.0
+408	main-captions	images	2015	435	none	none	A woman in jeans plays a video game in front of a large screen.	A man and a woman are posing for a photograph in front of a yellow flower-bed.	0.4
+409	main-captions	images	2015	438	none	none	Two people walking along the shore at sunset.	Two people walking along the beach at sunset towarn a group of people.	3.0
+410	main-captions	images	2015	448	none	none	A black dog is running through the snow.	The black and brown dog is running through the snow.	4.0
+411	main-captions	images	2015	449	none	none	A woman in a pink bikini is laying on a deck lounge chair that is covered with a pink towel.	A woman in a white shirt and black skirt on a tennis court.	1.4
+412	main-captions	images	2015	453	none	none	Three people stand in an outdoor glass structure.	A girl stands high on an obstacle course platform.	0.4
+413	main-captions	images	2015	456	none	none	A group of people are at a convention waving American flags.	A crowd of people at an outdoor event	2.4
+414	main-captions	images	2015	465	none	none	A boy skateboards down the railing of some graffiti stairs	A skateboarder is jumping over an obstacle in front of a white house.	2.8
+415	main-captions	images	2015	466	none	none	A white dog is running through the water at a beach	A white dog is running through the water onto the shore.	4.6
+416	main-captions	images	2015	472	none	none	A man and woman blow bubbles.	A man and a woman in glasses blow bubbles.	4.2
+417	main-captions	images	2015	477	none	none	a skateboard performs a trick off a quarter pipe.	A skateboarder attempts to do a trick over a homemade ramp.	3.2
+418	main-captions	images	2015	500	none	none	A woman and a man are amused by headphones.	A man and a woman resting after exercise.	1.2
+419	main-captions	images	2015	501	none	none	Two girls walking in the ocean.	two girls walking in the street	1.8
+420	main-captions	images	2015	524	none	none	Boat sails in rough water.	A man is kayaking in rough waters.	2.6
+421	main-captions	images	2015	532	none	none	Three dogs are playing in the white snow.	Two dogs are playing in the grass.	1.6
+422	main-captions	images	2015	573	none	none	A man in red swim trunks playing volleyball.	A man and woman sitting on a motorcycle.	0.0
+423	main-captions	images	2015	576	none	none	Two people in snowsuits laying in the snow making snow angels	Two children lying in the snow making snow angels	3.8
+424	main-captions	images	2015	577	none	none	A little blonde girl is standing in front of a water fountain.	A young girl standing in front of a fountain	4.0
+425	main-captions	images	2015	602	none	none	A boy riding on a swing.	A young boy riding in a swing.	4.8
+426	main-captions	images	2015	607	none	none	A black dog running through the snow.	A black dog runs through the water.	2.4
+427	main-captions	images	2015	614	none	none	A black dog walking beside a pool.	A black dog is walking along the side of a pool.	5.0
+428	main-captions	images	2015	627	none	none	The man is wearing a black shirt and hat and smiling.	A man is lifting a little girl above his head.	0.0
+429	main-captions	images	2015	632	none	none	A man and a woman are riding bikes on a street.	A man and woman are riding bicycles across a junction in the city.	3.6
+430	main-captions	images	2015	667	none	none	Two dogs in the snow	Two dogs play in the grass.	2.4
+431	main-captions	images	2015	673	none	none	Three dogs playing in the snow.	Three dogs run in the snow.	4.2
+432	main-captions	images	2015	676	none	none	The boy in the orange shirt is throwing the ball.	The black and white muzzled dog is leaping above the grass.	0.2
+433	main-captions	images	2015	688	none	none	Several people are sitting around a fire at night.	A group of people sit around a blazing fire at night.	4.2
+434	main-captions	images	2015	698	none	none	Two dogs fighting in the snow.	Two dogs play in the snow.	3.2
+435	main-captions	images	2015	700	none	none	A group of people are in the water.	A group of people ride in a race	0.6
+436	main-captions	images	2015	706	none	none	Two dogs are sniffing something in the rocks.	Two dogs running down a path in the woods.	1.6
+437	main-captions	images	2015	718	none	none	A black dog lays in the sand.	Kids play in the water	0.0
+438	main-captions	images	2015	725	none	none	A man dressed in black wearing a hat and glasses in front of a red wall.	A woman in a white shirt standing in front of a brick wall.	1.4
+439	main-captions	images	2015	728	none	none	A man helps a boy ride a bike.	The man helps the boy ride a bike.	4.8
+440	main-captions	images	2015	733	none	none	The two dogs are playing fetch in the snow.	The dogs play in the snow.	4.0
+441	main-captions	images	2015	740	none	none	Two dogs are playing on the beach together.	Two black dogs are playing in a grass.	3.0
+442	main-captions	images	2015	750	none	none	Two tan and white dogs and one tan dog racing down the beach near the water.	Lady in a pink Tinkerbell jacket stands next to the railing and looks out at the water.	0.2
+443	main-captions	images	2015	754	none	none	A man is riding a bicycle on a dirt path.	Two dogs running along dirt path.	1.6
+444	main-captions	images	2015	758	none	none	A seated young woman in a hat is reading at a coffee shop.	a woman enjoying her reading at a coffee shop	4.4
+445	main-captions	images	2015	759	none	none	A black and white dog is running through the grass.	The black and white dog is running on the grass.	4.8
+446	main-captions	images	2015	781	none	none	A woman stands with her arms out at her sides while another takes a picture.	A man stands in a crowd holding a white object.	0.4
+447	main-captions	images	2015	796	none	none	Many people are on the beach, near a building with flags flying.	A busy beach has people scattered on it watching the sky.	2.4
+448	main-captions	images	2015	803	none	none	Black and white dog running through water.	A tan and white dog runs through water.	3.0
+449	main-captions	images	2015	812	none	none	Three clowns in bright, multi-colored costumes.	Three women in brightly colored dresses.	2.0
+450	main-captions	images	2015	815	none	none	Two beige dogs play in the grass.	two tan dogs play in the grass	4.6
+451	main-captions	images	2015	828	none	none	A dog and a red ball in the air.	A dog digs a hole in a yard.	1.0
+452	main-captions	images	2015	832	none	none	A dog jogs through the grass.	a dog trots through the grass.	5.0
+453	main-captions	images	2015	866	none	none	Group of little girls and a dog standing on the road.	a group of people white water rafting in a blue raft.	1.4
+454	main-captions	images	2015	869	none	none	A man in a grey suit kneels in front of a woman in a white dress.	A woman in red with a beer followed by a man in white.	0.0
+455	main-captions	images	2015	878	none	none	A brown and white dog with a pink Frisbee in it's mouth is humping over a man's back.	a dog with a Frisbee in its mouth, jumps over a man.	3.0
+456	main-captions	images	2015	887	none	none	A dog and cat laying down together.	Two grey dogs are carrying a stick in the water.	0.6
+457	main-captions	images	2015	891	none	none	A family is playing on the beach with their dog.	A naked little girl being thrown into the air.	0.0
+458	main-captions	images	2015	898	none	none	a dog runs through the long grass.	A dog lays down in the long green grass.	2.6
+459	main-captions	images	2015	913	none	none	A group of people are camping out on some rocks.	A group of people are standing beside a fire truck.	1.2
+460	main-captions	images	2015	925	none	none	There is a black dog jumping into a swimming pool.	A black dog is leaping into a swimming pool.	5.0
+461	main-captions	images	2015	931	none	none	Three dogs playing in the snow while one dog wears a jacket.	Three dogs playing in the snow, with a city in the background.	3.4
+462	main-captions	images	2015	933	none	none	A group of people in boats racing towards the shore.	A group of people stand together and pose in front of a house.	0.8
+463	main-captions	images	2015	956	none	none	A crowd of people stand on a rural road, a field behind them, a forest in front.	A bunch of people standing next to a car with it's trunk open.	0.8
+464	main-captions	images	2015	961	none	none	A Japanese swordsman jumps into the air.	A woman is getting her dog to jump in the air.	1.0
+465	main-captions	images	2015	977	none	none	A man wearing US flag boxer shorts is standing on a stairway.	A woman wearing a white shirt stands on the street.	0.0
+466	main-captions	images	2015	978	none	none	A group of seven people are rafting in the rapids in a green boat.	A group of people are standing and sitting around on the ground at night.	0.0
+467	main-captions	images	2015	980	none	none	A man with long hair is looking through a camera.	A man with sunglasses looking straight ahead.	2.0
+468	main-captions	images	2015	1018	none	none	The black and brown dog is playing in the yard.	The black and tan dog is chasing something he has spotted.	2.4
+469	main-captions	images	2015	1030	none	none	A boy is jumping into the water with a ball in his hand.	A little boy swimming underwater with a toy in his hand.	2.2
+470	main-captions	images	2015	1032	none	none	A person wearing scuba gear is swimming underwater water.	A person is scuba diving in very clear blue water.	3.8
+471	main-captions	images	2015	1035	none	none	This dog is jumping through the water.	Two dogs running through the water on a beach.	2.2
+472	main-captions	images	2015	1089	none	none	a young girl smiling with her head upside down	A girl poses with her head upside down.	4.6
+473	main-captions	images	2015	1090	none	none	Two women holding checkered flags near an orange car.	Two ladies in skimpy clothes pose next to an old fashioned car.	2.8
+474	main-captions	images	2015	1155	none	none	A hockey player looks intently downward.	A hockey player during a game.	2.0
+475	main-captions	images	2015	1160	none	none	Two brown dogs chase each other in the snow.	Two brown dogs are playing with each other in the snow.	4.2
+476	main-captions	images	2015	1165	none	none	Children are playing on a trampoline in the snow.	Several children and jumping on a trampoline in the snow.	4.5
+477	main-captions	images	2015	1196	none	none	A dog with a stick follows another dog through the water.	A four wheel drive car is driving through the mud.	0.0
+478	main-captions	images	2015	1200	none	none	A black and brown dog is chewing on a large stick.	A black and white dog playing in the sand.	1.8
+479	main-captions	images	2015	1205	none	none	Two black dogs playing in the grass.	Two dogs play in the grass.	4.2
+480	main-captions	images	2015	1208	none	none	Two boys are jumping into a pool.	Two boys are in midair jumping into an inground pool.	4.2
+481	main-captions	images	2015	1229	none	none	A group of men walk and hang onto ropes.	A group of men play a college football game.	1.4
+482	main-captions	images	2015	1233	none	none	A black person in black and red is sleeping on a bench with an open black umbrella.	A man sitting up taking a nap on a park bench with an open umbrella protecting him from the sun.	3.6
+483	main-captions	images	2015	1251	none	none	A man with a grey beard rides his bike on the beach of the ocean.	A spotted dog stands on his hind legs to catch a ball on the beach.	0.6
+484	main-captions	images	2015	1266	none	none	A Golden Retriever jumping off a wood porch.	A golden retriever is jumping off a wooden porch	5.0
+485	main-captions	images	2015	1302	none	none	A man is skating down a set of stairs.	The man is skiing down a snowy hill.	0.8
+486	main-captions	images	2015	1313	none	none	A lady with a yellow outfit is in the air above the bed in a yellow room.	A dog with a red leash still attached chases over the grass toward a tennis ball.	0.0
+487	main-captions	images	2015	1328	none	none	A skier is jumping in the air over a snowfield near a mountain range.	A woman is sitting near a flower bed overlooking a tunnel.	0.0
+488	main-captions	images	2015	1333	none	none	The dogs are playing in the snow.	Two dogs playing on the shore.	1.8
+489	main-captions	images	2015	1334	none	none	A young boy in red swim trunks is jumping into a pool.	A dog is being squirted with a hose as it jumps into a paddling pool.	0.8
+490	main-captions	images	2015	1344	none	none	Two dogs are running on the grass in front of the trees.	A brown dog is running on the grass in front of some trees.	2.8
+491	main-captions	images	2015	1351	none	none	a young boy climbing on a rock wall	Five greyhounds are racing on a sand track.	0.0
+492	main-captions	images	2015	1372	none	none	A skateboarder jumps off the stairs.	A dog jumps off the stairs.	0.8
+493	main-captions	images	2015	1384	none	none	Two dogs running together and one has a duck toy in its mouth.	a black and white dog walking through the grass with a long stick in his mouth.	1.8
+494	main-captions	images	2015	1385	none	none	The black and white dog is running on the grass.	A black and white dog swims in blue water.	1.4
+495	main-captions	images	2015	1438	none	none	A woman runs on the beach.	a dog runs across the land.	1.8
+496	main-captions	images	2015	1452	none	none	A golden colored dog jumps around in the grass while holding a stick in its mouth.	A black dog is running through the grass carrying something red in its mouth.	2.4
+497	main-captions	images	2015	1462	none	none	A white dog is playing with a ball on the beach.	A black and white dog is playing with a tan dog.	1.6
+498	main-captions	images	2015	1472	none	none	Woman in black dress with red accessories is walking down the street.	Woman in a black dress walking on the street.	3.8
+499	main-captions	images	2015	1476	none	none	Two dogs approach each other in the grass.	Two dogs face off of each other on the grass.	4.8
+500	main-captions	track5.en-en	2017	1	none	none	Our current vehicles will be in museums when everyone has their own aircraft.	The car needs to some work	0.2
+501	main-captions	track5.en-en	2017	2	none	none	A woman supervisor is instructing the male workers.	A woman is working as a nurse.	1.0
+502	main-captions	track5.en-en	2017	7	none	none	The sky has very little to no clouds.	This Lady might be ready for Rock Climbing, or just watching the Clouds, above.	0.4
+503	main-captions	track5.en-en	2017	8	none	none	The young boy jumps barefoot outside in the front yard.	The teen rode his bike around the people walking in the courtyard.	0.4
+504	main-captions	track5.en-en	2017	9	none	none	There are dogs in the forest.	The dogs are alone in the forest.	4.0
+505	main-captions	track5.en-en	2017	10	none	none	Some cyclists stop near a sign.	Two men stop to talk near a sign outside.	3.4
+506	main-captions	track5.en-en	2017	11	none	none	These cooks in the white are busy in the kitchen making dinner for their customers.	The women are preparing dinner in their kitchen.	3.0
+507	main-captions	track5.en-en	2017	13	none	none	A man is carrying a canoe with a dog.	A dog is carrying a man in a canoe.	1.8
+508	main-captions	track5.en-en	2017	16	none	none	a woman watches a rap group live	An audience watches a girl dance.	2.2
+509	main-captions	track5.en-en	2017	17	none	none	A girl dancing on a sandy beach.	A girl is on a sandy beach.	3.6
+510	main-captions	track5.en-en	2017	22	none	none	The woman is drinking lemonade and watching T.V.	The man is sitting drinking coffee.	0.4
+511	main-captions	track5.en-en	2017	25	none	none	The young adult are cold	Asian children are playing with a dog.	0.2
+512	main-captions	track5.en-en	2017	27	none	none	A sad man is jumping over a small stream to meet his companion on the other side.	A man is jumping over a stream to meet his companion on the other side.	3.8
+513	main-captions	track5.en-en	2017	31	none	none	A woman is bungee jumping.	A girl is bungee jumping.	4.2
+514	main-captions	track5.en-en	2017	32	none	none	A clown performs for brother and sister as the rest of the party watches.	A blond-haired child performing on the trumpet in front of a house while his younger brother watches.	1.2
+515	main-captions	track5.en-en	2017	36	none	none	Four girls happily walk down a sidewalk.	Three young girls walk down a sidewalk.	3.4
+516	main-captions	track5.en-en	2017	39	none	none	a group of navy seals are singing	A group of military personnel are playing in a brass quintet.	2.4
+517	main-captions	track5.en-en	2017	43	none	none	A man playing the violin in the rain.	A man playing the guitar in the rain.	3.2
+518	main-captions	track5.en-en	2017	44	none	none	The people are leaving the airplane.	The people are entering the plane.	2.2
+519	main-captions	track5.en-en	2017	45	none	none	The dogs are chasing a cat.	The dogs are chasing a black cat.	4.4
+520	main-captions	track5.en-en	2017	47	none	none	the tan dog is playing with the red dog out in the snow	A yellow dog is playing in the snow.	2.6
+521	main-captions	track5.en-en	2017	49	none	none	a girl with vases in the background inside her house	The girl is standing as the other girl with glasses works on her hand painting.	0.2
+522	main-captions	track5.en-en	2017	51	none	none	A person sitting in an office takes a picture.	A woman is sitting in an office.	3.2
+523	main-captions	track5.en-en	2017	53	none	none	People rock jumping into water while people fish in the background.	Two people watching the water.	2.2
+524	main-captions	track5.en-en	2017	56	none	none	A blonde woman looks for medical supplies for work in a suitcase.	The blond woman is searching for medical supplies in a suitcase.	5.0
+525	main-captions	track5.en-en	2017	57	none	none	A boy is at school taking a test.	The boy is taking a test at school.	5.0
+526	main-captions	track5.en-en	2017	58	none	none	An old man wearing a hat stands outside a shop door.	a man in an oversized shirt sits at a shop	2.2
+527	main-captions	track5.en-en	2017	63	none	none	The carriage is drawn by a horse.	A man riding on a bicycle by side of building.	0.4
+528	main-captions	track5.en-en	2017	66	none	none	A woman looks at a duck as she walks behind it.	A woman is going on a walk with her dog.	1.0
+529	main-captions	track5.en-en	2017	68	none	none	Man sitting on a bench drink from a mug surrounded by rugs.	A man is sitting on one of two red benches and staring into a kiosk.	2.2
+530	main-captions	track5.en-en	2017	72	none	none	A small blond boy slides head first down a blue playground slide toward another blond youth.	A young boy with his hair standing up, is sliding down a blue slide	2.0
+531	main-captions	track5.en-en	2017	73	none	none	The four women are practicing for a upcoming match.	The women are in a play	1.2
+532	main-captions	track5.en-en	2017	75	none	none	man on steps	A man sits on steps.	4.0
+533	main-captions	track5.en-en	2017	77	none	none	There is a young girl.	There is a young boy with the woman.	1.0
+534	main-captions	track5.en-en	2017	79	none	none	A woman paints a picture of a large building which can be seen in the background.	A person paints a picture of a large building which can be seen in the background.	4.2
+535	main-captions	track5.en-en	2017	82	none	none	Two kids are playing a game of Foosball.	The kids are playing a game with each other.	3.4
+536	main-captions	track5.en-en	2017	83	none	none	The man is in a deserted field.	The man is outside in the field.	4.0
+537	main-captions	track5.en-en	2017	84	none	none	A little boy is drinking from a juice packet.	A boy is drinking from a juice packet.	4.8
+538	main-captions	track5.en-en	2017	85	none	none	A man has his skis ready for the field to get iced out	A man on a boat getting ready to pull in his net to see what he caught.	0.4
+539	main-captions	track5.en-en	2017	86	none	none	The biker is doing dangerous stunts.	A biker is doing stunts.	4.4
+540	main-captions	track5.en-en	2017	87	none	none	A musician is smearing jam on his white guitar at a concert.	Trombonist playing the her instrument in a band for a parade.	0.4
+541	main-captions	track5.en-en	2017	89	none	none	A pair of young boys in t-shirts are hiding in the woods with one looking aghast.	Two smiling little girls playing in a fountain with other people.	0.0
+542	main-captions	track5.en-en	2017	90	none	none	A group of people playing soccer on a soccer field in front of a crowd.	A group of men playing soccer in a stadium full of people.	3.0
+543	main-captions	track5.en-en	2017	91	none	none	A man is enjoying watching three asian children dance.	A man is watching three asian kids dance.	4.6
+544	main-captions	track5.en-en	2017	94	none	none	A woman walking down the side of a highway.	A man is standing on one feet on a bridge.	0.4
+545	main-captions	track5.en-en	2017	96	none	none	A man calling for a taxi at the airport on a sunny day.	A man is outside on a July day.	1.4
+546	main-captions	track5.en-en	2017	98	none	none	A young boy has a red fishing pole.	A young boy stands over a bridge with a fishing pole.	3.0
+547	main-captions	track5.en-en	2017	99	none	none	A player bounces a ball.	A player catching a ball.	1.6
+548	main-captions	track5.en-en	2017	101	none	none	Men competing in a contest.	Two women compete in a contest.	2.4
+549	main-captions	track5.en-en	2017	102	none	none	The puppy is outdoor.	A man in printed board shorts is doing a yoga pose on the beach.	0.0
+550	main-captions	track5.en-en	2017	106	none	none	A young girl in a pink jacket is playing a board game.	A boy in a jacket playing.	1.6
+551	main-captions	track5.en-en	2017	107	none	none	A smiling Caucasian male wearing a blue and black striped shirt it about to take a photograph.	A man in a white shirt and black pants is smiling.	1.6
+552	main-captions	track5.en-en	2017	108	none	none	A person is scaling a rock wall.	A person and a horse are above a fence.	0.2
+553	main-captions	track5.en-en	2017	110	none	none	Two men are playing a game of Scrabble together.	The two women are playing a game.	2.2
+554	main-captions	track5.en-en	2017	112	none	none	The girl is very skilled and practices a lot.	The man is very skilled.	2.0
+555	main-captions	track5.en-en	2017	113	none	none	Many guards are standing in front of the starting line of a race.	Two men in business dress are standing by the side of a road.	0.4
+556	main-captions	track5.en-en	2017	116	none	none	A man at a farmers market.	A man is at a farmers market.	4.8
+557	main-captions	track5.en-en	2017	117	none	none	four people walk toward a tower	Two men walk toward a dome-shaped building.	2.0
+558	main-captions	track5.en-en	2017	118	none	none	A little girl and boy are reading books.	An older child is playing with a doll while gazing out the window.	0.2
+559	main-captions	track5.en-en	2017	119	none	none	The child would like to swim.	The children want to swim.	3.8
+560	main-captions	track5.en-en	2017	122	none	none	Men are fighting after a basketball game.	The men are playing a game of basketball.	2.2
+561	main-captions	track5.en-en	2017	127	none	none	People are sitting around dimly lit tables while smiling and laughing.	People are sitting on benches.	2.0
+562	main-captions	track5.en-en	2017	128	none	none	A dog is chasing cows.	A white dog is chasing cows.	4.0
+563	main-captions	track5.en-en	2017	129	none	none	One football player tries to tackle a player on the opposing team.	A football player attempts a tackle.	4.6
+564	main-captions	track5.en-en	2017	130	none	none	Three men are drying to pull a Subaru out of a ditch along a mountain road.	Two men are waiting for a ride on the side of a dirt road.	1.4
+565	main-captions	track5.en-en	2017	131	none	none	A woman doesn't have her arms up because she's paralyzed from the neck down	A woman is sitting on the steps because she tripped and hurt her ankle.	0.8
+566	main-captions	track5.en-en	2017	135	none	none	Five kids are standing in front of a tent.	People are out sitting in front of a garden.	0.6
+567	main-captions	track5.en-en	2017	136	none	none	Female in a maroon shirt engaged in conversation with another female in a tan blazer.	A girl in a blue dress and another girl in a purple dress, both smiling.	1.2
+568	main-captions	track5.en-en	2017	137	none	none	Baseball players playing a game at the park.	A basketball player, playing in the home coming game.	1.6
+569	main-captions	track5.en-en	2017	138	none	none	They are preparing for a performance at school.	Two medical professionals in green look on at something.	0.0
+570	main-captions	track5.en-en	2017	140	none	none	Some smiling children are standing in front of an ocean sunset.	People walking in the dark.	0.6
+571	main-captions	track5.en-en	2017	143	none	none	Two fishermen try to untangle their large fishing net on the side of the road on a cloudy day.	Several men pull a fishing net up on to the beach.	3.0
+572	main-captions	track5.en-en	2017	145	none	none	The woman had brown hair.	The woman has gray hair.	2.4
+573	main-captions	track5.en-en	2017	146	none	none	Black and white image of a wave crashing in the ocean.	a small black dog in the ocean with some rocks in the background	0.6
+574	main-captions	track5.en-en	2017	147	none	none	A lady and her daughter look through a microscope.	A girl and a lady both looking through a microscope.	4.6
+575	main-captions	track5.en-en	2017	149	none	none	A boy does a skateboard trick on the stairs downtown.	a boy is running on the sidewalk	0.6
+576	main-captions	track5.en-en	2017	152	none	none	Three humans are walking a dog.	Three people are walking a dog.	4.8
+577	main-captions	track5.en-en	2017	153	none	none	There are people out on the street.	People are out on the street.	5.0
+578	main-captions	track5.en-en	2017	155	none	none	Two women are lost and calling for help.	Two Asian men are gathering materials for their business and their child had to come with them.	0.2
+579	main-captions	track5.en-en	2017	156	none	none	A man is throwing a penny into a fountain.	A little boy is throwing a man in water.	0.6
+580	main-captions	track5.en-en	2017	158	none	none	Two girls are playing Doctor inside their house.	The two girls are walking with their father.	0.8
+581	main-captions	track5.en-en	2017	159	none	none	A crowd of men wearing paper numbers on their shirts run in a race.	Several men running down a grass field wearing numbers on the front of their shirts.	3.6
+582	main-captions	track5.en-en	2017	161	none	none	The fruits should be eaten with lemon juice in order to prevent oxidation in your stomach.	three dogs growling On one another	0.0
+583	main-captions	track5.en-en	2017	162	none	none	A doctor prescribes medicine to a patient.	A doctor prescribes a medicine.	4.4
+584	main-captions	track5.en-en	2017	163	none	none	A woman is in the bathroom.	The woman is in a bathroom.	4.6
+585	main-captions	track5.en-en	2017	164	none	none	Spectators taking pictures of a rally car.	A crowd of people watching cars race down the track.	2.8
+586	main-captions	track5.en-en	2017	165	none	none	The man and woman are resting on a couch.	A man and woman are asleep on the couch.	4.0
+587	main-captions	track5.en-en	2017	167	none	none	The boy in the green jersey plays goalie on the soccer team.	The team in blue is playing a game against the team in white	1.0
+588	main-captions	track5.en-en	2017	171	none	none	People are near water	People are near water.	5.0
+589	main-captions	track5.en-en	2017	173	none	none	Friends walk into a building	a man walks along walkway to the store	0.4
+590	main-captions	track5.en-en	2017	175	none	none	The rollerblades are moving.	Two vehicles are going towards the camera.	0.8
+591	main-captions	track5.en-en	2017	176	none	none	There is a older man near a window.	A boy is near some stairs.	0.4
+592	main-captions	track5.en-en	2017	177	none	none	A guy and a girl are rock climbing with backpacks on.	Two boys are riding on a toy with a blonde girl running long side of them.	0.0
+593	main-captions	track5.en-en	2017	178	none	none	In Abu Dhabi the Golden Market is one of the premier public outdoor shopping areas.	A busy city square in an asian country.	1.6
+594	main-captions	track5.en-en	2017	179	none	none	A pregnant woman is in labor	a woman has a child.	1.6
+595	main-captions	track5.en-en	2017	182	none	none	The religious people are enjoying the outdoors.	The group of people are enjoying the outdoors.	3.6
+596	main-captions	track5.en-en	2017	183	none	none	A girl in water without goggles or a swimming cap.	A girl in water, with goggles and swimming cap.	3.0
+597	main-captions	track5.en-en	2017	184	none	none	A man is performing a stunt outdoors.	A young man on a beach is performing skateboard stunts.	2.8
+598	main-captions	track5.en-en	2017	189	none	none	There was girl stranded on the roof.	The couple was on the bed.	0.2
+599	main-captions	track5.en-en	2017	190	none	none	There are four snowboarders going off a jump and that are in the air.	Two racers are coming to a turn.	1.0
+600	main-captions	track5.en-en	2017	200	none	none	A basketball player makes the 5th rebound of the night,	A tennis player in the middle of a game.	1.4
+601	main-captions	track5.en-en	2017	203	none	none	A helicopter is getting ready to take off.	The plane is getting ready to take off.	2.8
+602	main-captions	track5.en-en	2017	206	none	none	A man doing a jumping bike trick surrounded by trees.	A boy riding a green trick bike over some steps outdoors.	3.0
+603	main-captions	track5.en-en	2017	207	none	none	Three guys in speedos have their feet up on the railing of a boat getting a tan.	A few men on the deck are dropping another man into the water	1.6
+604	main-captions	track5.en-en	2017	208	none	none	A group wading across a witch	A group wading across a ditch	2.8
+605	main-captions	track5.en-en	2017	209	none	none	A woman jumps and poses for the camera.	A woman poses for the camera.	4.0
+606	main-captions	track5.en-en	2017	210	none	none	A man is on a rooftop	A man is holding a microphone in a room.	0.8
+607	main-captions	track5.en-en	2017	211	none	none	There are two men near a wall.	Three women are sitting near a wall.	2.0
+608	main-captions	track5.en-en	2017	215	none	none	The two men are wearing jeans.	The two men are wearing pants.	4.4
+609	main-captions	track5.en-en	2017	217	none	none	The man without a shirt is jumping.	The man jumping is not wearing a shirt.	4.6
+610	main-captions	track5.en-en	2017	218	none	none	The woman is holding the hands of the man.	The woman is checking the eyes of the man.	2.4
+611	main-captions	track5.en-en	2017	219	none	none	A man walks his dog on the beach.	A man with his dog on the beach.	4.4
+612	main-captions	track5.en-en	2017	220	none	none	The child is the woman's kid.	There is a boy and a girl.	0.8
+613	main-captions	track5.en-en	2017	221	none	none	A soccer player is kicking the ball.	The soccer player gave the ball a high kick.	3.8
+614	main-captions	track5.en-en	2017	222	none	none	Two boys in black swimming trunks are holding another boy by his arms and legs on a beach.	Man in white shirt flipping young boy in the water with four other boys surrounding them.	1.4
+615	main-captions	track5.en-en	2017	223	none	none	The player shoots the winning points.	The basketball player is about to score points for his team.	2.8
+616	main-captions	track5.en-en	2017	227	none	none	A motorcross driver going by during a race	A race car driver performs in the race of his life.	3.0
+617	main-captions	track5.en-en	2017	230	none	none	The gate is blue.	The gate is yellow.	1.6
+618	main-captions	track5.en-en	2017	236	none	none	A dog walks along a beach with breaking waves.	A boy with an oar walks out of the surf and onto a beach.	1.0
+619	main-captions	track5.en-en	2017	237	none	none	A pair of men walk along the beach.	Two men standing in the surf on a beach.	2.6
+620	main-captions	track5.en-en	2017	238	none	none	Blond woman in a tunnel.	The couple kissing is near a blond woman.	1.6
+621	main-captions	track5.en-en	2017	241	none	none	The raven droned as is hopped along the grass.	The skinny dog with the long tail is traveling through the field.	0.2
+622	main-captions	track5.en-en	2017	246	none	none	the man is catching a ball	A man is kicking a ball.	3.0
+623	main-captions	track5.en-en	2017	247	none	none	Two men are sitting in the room.	Two men are standing in a room.	3.0
+624	main-captions	track5.en-en	2017	249	none	none	The woman is waiting for her date.	The woman is on her way to a date.	3.2
+625	main-forums	answers-forums	2015	0	none	none	You'll need to check the particular policies of each publisher to see what is allowed and what is not allowed.	If you need to publish the book and you have found one publisher that allows it.	3.0
+626	main-forums	answers-forums	2015	4	none	none	I am not aware of any university run participant pools.	At the universities I've worked in North America, human-subject studies (esp.	0.6
+627	main-forums	answers-forums	2015	7	none	none	Apart from admission (which normally should not be related to age), there is something that's related to your question.	Age is not a PhD admission facor in the continental Europe, too.	1.0
+628	main-forums	answers-forums	2015	20	none	none	This post refers to research in the STEM fields, and may not be applicable to other research topics.	This is about my experience in computer engineering I found that reading for breadth was the more important approach.	0.6
+629	main-forums	answers-forums	2015	22	none	none	If you don't want to pay for Adobe Acrobat Pro, as @schultem mentions, LaTeX can do this with embedded hyperlinks.	If you don't mind hosting your files online, SlideShare is a good solution.	0.8
+630	main-forums	answers-forums	2015	27	none	none	I don't think there are likely to be any standards that address this issue specifically.	"You're going to find answers all over the map for this one (i.e., there probably aren't ""standards"")."	2.4
+631	main-forums	answers-forums	2015	33	none	none	My answer would be depending on which GRE are you referring to?	The problem I see with the GREs is that the scoring range is highly compressed.	1.0
+632	main-forums	answers-forums	2015	37	none	none	If you have access to it, you can very easily do that with Thomson Reuters’ Web of Science portal.	You can have a look at the arXiv cultoromics website at http://arxiv.culturomics.org, which however searches in articles on the arXiv.	0.2
+633	main-forums	answers-forums	2015	44	none	none	In general there are a number of different distinct workflows that lead to a poster.	For completeness, Apple's Pages has quite a few nice poster layouts.	0.6
+634	main-forums	answers-forums	2015	49	none	none	It is perfectly okay to ask for the figure knowing well that the other person may not give.	You can always ask, then it is the choice of the author to accept or not.	3.6
+635	main-forums	answers-forums	2015	59	none	none	The academic year does start around September in the USA and I think most European countries.	I would not accelerate things, to avoid getting worse grades that you want.	0.2
+636	main-forums	answers-forums	2015	62	none	none	I will advise exactly the contrary of what bravo just said in another answer : go for A !	You could defer admission, but it's a little unusual to defer for a year.	0.2
+637	main-forums	answers-forums	2015	79	none	none	Edit, again: The question seems to have changed, yet again.	I can think of three reasons why a faculty member might reveal how a student performed on a qualifying examination.	0.0
+638	main-forums	answers-forums	2015	82	none	none	"I agree with Seteropere completely, ""Network Science"" is a very broad subject."	I would say you are approaching it in the wrong way.	0.0
+639	main-forums	answers-forums	2015	89	none	none	Supporting an ideology in an ostentatious manner (rather than privately or discreetly) is a personality problem.	I think for an appropriate answer I'd need to know exactly what the 'bad' ideology is.	1.2
+640	main-forums	answers-forums	2015	93	none	none	This does not fully answer your question, but it is certainly one consideration.	I am a PhD student in Computational Science, which is an interdisciplinary major spanning mathematics, computer science, and engineerning.	0.0
+641	main-forums	answers-forums	2015	97	none	none	A few possible problems: 1) Such an ID system seems a little intrusive.	In mathematics, we already have a database of this sort - two them, in fact, with in MathSciNet and Zentralblatt MATH.	0.4
+642	main-forums	answers-forums	2015	101	none	none	As an complement to the other answers, let me address the question of why planets tend towards tidal locking.	The other answers here are fantastic at explaining in a technical sense.	0.4
+643	main-forums	answers-forums	2015	102	none	none	Stars are rotating, but that's not the cause for their stability.	Stars rotate due to the angular momentum of the gas they formed from.	3.0
+644	main-forums	answers-forums	2015	104	none	none	It indeed appears the Andromeda galaxy (M31) and The Milky Way (MW) are en route to a collision.	In a few billion years, the Milky Way and Andromeda will collide.	4.4
+645	main-forums	answers-forums	2015	107	none	none	"The short answer is: we are made from the ""stuff"" contributed by many stars."	It is highly unlikely that we're made out of stuff from only one star.	3.2
+646	main-forums	answers-forums	2015	108	none	none	All we know is this : Distant objects are receding from us at a rate proportional to their distance from us.	The expansion of space means that objects in cosmological distances are receding away from each other.	3.4
+647	main-forums	answers-forums	2015	111	none	none	Like Chris said above, stars rotate to conserve their angular momentum.	Stars are rotating, but that's not the cause for their stability.	3.4
+648	main-forums	answers-forums	2015	113	none	none	According to this website the peak visible magnitude will be about 10.5 around February 2nd.	The AAVSO data seems to indicate that it might have already peaked, at around 10.5 (visual).	3.6
+649	main-forums	answers-forums	2015	114	none	none	All of these effects are related to the 11 year solar cycle.	I will be specific to answering the part regarding the prediction of solar flares.	0.8
+650	main-forums	answers-forums	2015	117	none	none	"We are moving ""... relative to the comoving cosmic rest frame ... at some 371 km/s towards the constellation Leo""."	There is no 'still' that is not relative to some other object.	0.8
+651	main-forums	answers-forums	2015	118	none	none	Yes, it's true that the apparent size of the Moon is 30 arcmin.	"When you gaze at the moon ""live"", you are not seeing a still image."	1.0
+652	main-forums	answers-forums	2015	119	none	none	Let us assume the data for a globular cluster to be equivalent to that of M13.	Globular clusters occupy an interesting place in the spectrum of composite stellar systems.	1.6
+653	main-forums	answers-forums	2015	124	none	none	Why is the speed of light 299,792,458 m/s, and not (for instance) 3,1 or 4,3 x 10^44 m/s?	Speed of light being finite is one of the fundamentals of our Universe.	1.0
+654	main-forums	answers-forums	2015	129	none	none	As per your definition, a star formed in a binary system (hence near some gravitating body) is a generalised planet.	"The main flaw with your definition of a ""generalised planet"" would be the boundary between stars and planets."	3.2
+655	main-forums	answers-forums	2015	141	none	none	A method used to calculate the distance between stars is 3 Dimensional trigonometry.	You only need two-dimensional trigonometry if you know the distances to the two stars and their angular separation.	2.0
+656	main-forums	answers-forums	2015	147	none	none	The farther away, the faster the galaxies move away from us.	Here is my answer to a similar question posted on the physics stack exchange website.	0.0
+657	main-forums	answers-forums	2015	169	none	none	Stars form in star-formation regions, which itself develop from molecular clouds.	It may be possible for a solar system like ours to exist outside of a galaxy.	0.6
+658	main-forums	answers-forums	2015	173	none	none	A black hole (briefly), is nothing more than a dead star whose mass was more than 3 solar masses.	"I think you mean to ask, ""What is the local sidereal time of Greenwhich?""."	0.0
+659	main-forums	answers-forums	2015	183	none	none	Yes, but it does not stay in the same constellation.	Constellations are human constructs to make sense of the night sky.	1.4
+660	main-forums	answers-forums	2015	187	none	none	Asteroids are what are called minor planets - small inner solar system rocky bodies.	The objects you are refering to are actually two different objects: asteroids and comets.	2.0
+661	main-forums	answers-forums	2015	203	none	none	Here is a lexical decision task I wrote years ago using PHP and Javascript (github link).	Just for reference, I ended up writing simple web-based lexical decision task software myself.	2.6
+662	main-forums	answers-forums	2015	206	none	none	It's pretty difficult to imagine a person with Social Anxiety Disorder being an extrovert.	On the surface, it does seem like social anxiety disorder and extroversion shouldn't both exist in the same person.	4.2
+663	main-forums	answers-forums	2015	207	none	none	It is hard to delineate emotion completely from thoughts or sensations, because emotion can contain both.	Technically speaking, an emotion is not different from thought the way it is processed in brain, both involve neurotransmitters.	2.8
+664	main-forums	answers-forums	2015	208	none	none	I've found an additional concept that may be related to the original question: prototype theory.	According to current models of human concept learning, the answer to your question is both.	0.0
+665	main-forums	answers-forums	2015	224	none	none	There are individuals who possess extraordinary memory ability, sometimes called eidetic memory.	There are many arguments for why this is not the case.	0.0
+666	main-forums	answers-forums	2015	227	none	none	Spike trigger is a specific type or you could say a sub-set of reverse correlations, covariance and probabilities.	There's the naïve version of spike triggered averaging, and the sophisticated version.	2.0
+667	main-forums	answers-forums	2015	228	none	none	As mentioned in the other comments, ANOVA is problematic when mixing types of predictor variables.	I like to think of multitasking as rapid task switching.	0.0
+668	main-forums	answers-forums	2015	232	none	none	Q: What is the reason for people to implicitly trust their peers in extreme (or not) situations?	One human-being reliance on other(s) awareness is defined by the level of trust between the humans.	2.6
+669	main-forums	answers-forums	2015	243	none	none	Intrinsic reward is the emotional pay-off that you get by completing an activity.	According to Frederick Herzberg's two-factor theory of motivation, intrinsic rewards are motivators (e.g.	2.6
+670	main-forums	answers-forums	2015	245	none	none	Presumably the decision of drivers to slow down in response to work zone signage is influenced by many factors.	"This short talk deals with issues of ""cheating slightly"" :Dan Ariely: Our buggy moral code."	0.0
+671	main-forums	answers-forums	2015	254	none	none	When studying adult IQ, general adult norms are often used.	Basically, what you do is you compare each age group IQ to the standardization sample.	2.6
+672	main-forums	answers-forums	2015	255	none	none	Some ancient historical precedent exists for preferring $10$, but also for $6$, so that's mixed support from Wikipedia on perfect numbers.	This is indeed possible, but I haven't seen it done experimentally for reasons other than feasibility.	0.0
+673	main-forums	answers-forums	2015	267	none	none	These are interesting studies, but the bottom line is: yes, environment affects cognitive abilities.	I'm not sure what you mean by cognitive capacity, but I absolutely believe that language shapes the way we think.	1.6
+674	main-forums	answers-forums	2015	279	none	none	Since this is a relatively new problem for behavioral researchers, I don't know that there is a common consensus.	I'll address just the first of your three sub-questions, the others have been answered by Chuck Sherrington.	0.0
+675	main-forums	answers-forums	2015	282	none	none	If non-human animals do have intelligence too, why is their intelligence not as advanced as humans?	Your own theory is bad because it seems to follow from a Lamarkian interpretation of evolutionary theory.	0.6
+676	main-forums	answers-forums	2015	286	none	none	The Hare Psychopathy Checklist is often used to assess psychopathy in clinical settings.	From an article entitled Can You Call a 9-Year-Old a Psychopath?	1.8
+677	main-forums	answers-forums	2015	300	none	none	I wrap steaks individually in freezer paper, then put them into ziploc freezer bags.	Wrap well in plastic (individually) and then put in a freezer bag.	3.8
+678	main-forums	answers-forums	2015	310	none	none	In addition to oil, make sure the grill is nice and hot before you start cooking.	I'd been using paper towels to oil the grill, and I just discovered that newspapers work a lot better.	1.6
+679	main-forums	answers-forums	2015	313	none	none	The best way I have found is to soak the ears in husk for several hours before grilling.	Soak whole ears in the husk in a bowl of water.	3.2
+680	main-forums	answers-forums	2015	315	none	none	There are actually quite a few differences between the different types of flour.	The difference is the amount of protein contained in the flour which can range from 5% to 15%.	2.6
+681	main-forums	answers-forums	2015	323	none	none	I've never adjusted the length of time based on number of eggs.	I don't boil eggs enough to keep a feel for the timing...	3.0
+682	main-forums	answers-forums	2015	326	none	none	I just hold the cheese closer to the edge away from the grater.	"By the wording of the question, I'm pretty sure you're using one of those pyramidal graters or a ""sheet"" grater."	1.4
+683	main-forums	answers-forums	2015	328	none	none	I've stored pancakes in the freezer for over two month and not had any freezer burn.	Its going to depend on the type of packaging and also the freezer.	1.6
+684	main-forums	answers-forums	2015	330	none	none	Break the bulb into cloves, breaking off the bottom and the dry stick that goes up the middle.	lay down a knife horizontaly on the cloves and hit it.	1.6
+685	main-forums	answers-forums	2015	336	none	none	I managed to find this recipe, I think this is where I got the idea.	I've only made a couple of bbq sauces, but they've always come out really well.	1.0
+686	main-forums	answers-forums	2015	337	none	none	I  believe one cannot taste the difference between minced(canned) and fresh garlic once it is cooked.	In my experience, fresh garlic is great for when you want texture, or to slow down the flavour infusion.	1.8
+687	main-forums	answers-forums	2015	341	none	none	I grill salmon that I get with the skin on.	Salmon is a great choice and it's readily available pretty much everywhere.	1.8
+688	main-forums	answers-forums	2015	344	none	none	The recipe I work from has you put the meat in the freezer, then pan sear it.	Starting with a whole chilled piece of meat, I quickly pour boiling water over all the outside surface.	1.4
+689	main-forums	answers-forums	2015	346	none	none	They don't taste identical at all, and even more important, they don't smell the same.	Black pepper and white pepper are differing preparations of the fruit of the Piper nigrum plant.	2.6
+690	main-forums	answers-forums	2015	351	none	none	This depends on the shelf life of the cultivar of tomato you purchased.	Tomatoes will last longer if kept in the fridge, but I actually recommend against keeping them there.	2.0
+691	main-forums	answers-forums	2015	381	none	none	Coagulated egg proteins in combination with gluten give baked goods the supporting structure they need.	There are basically two types of cakes: butter and sponge (or Génoise).	1.0
+692	main-forums	answers-forums	2015	392	none	none	A common one is haddock and is in season pretty much year round.	White fish are, as a rule, more delicately flavored than darker fleshed fish.	1.4
+693	main-forums	answers-forums	2015	398	none	none	Good cheddar has little chunks of calcium lactate on/in it - could it be that?	I have two suspicions: One, you're undercooking your roux, the flour and butter mixture, and not fully incorporating the flour.	0.6
+694	main-forums	answers-forums	2015	399	none	none	Copper can be useful for certain tasks due to the its metallic properties (heats quickly, distributes heat evenly, etc.	Probably subjective, but ... Good clad stainless steel will give you much better cooking performance per dollar than copper.	1.4
+695	main-forums	answers-forums	2015	400	none	none	"She obviously has a legit excuse, although she could have been more responsible and ""have"" told you in advance."	The first have covers both been more responsible and told you in that sentence.	0.4
+696	main-forums	answers-forums	2015	401	none	none	In some cases the implication could even be that Tom does not love her.	There is no implication about Tom whatsoever in such a sentence.	1.8
+697	main-forums	answers-forums	2015	402	none	none	I agree with others (and yourself) in that I have never heard this phrase in English.	I have never heard or seen the phrase you mention.	4.0
+698	main-forums	answers-forums	2015	403	none	none	The assertion is false, at least as you've restated it here.	I had mainly been is fine, in the context you're using it.	0.6
+699	main-forums	answers-forums	2015	407	none	none	I'd suggest you look to the constructions of the native language(s) of your students.	As bikeboy389 said, you can learn a lot by looking at students' native languages.	2.8
+700	main-forums	answers-forums	2015	409	none	none	I see some references to status as uncountable as well, but that doesn't make much sense to me.	"There are some cases ""status"" may be accounted of countable."	2.6
+701	main-forums	answers-forums	2015	410	none	none	If I understand you correctly, you are looking for a hypernym of inclusion and exclusion.	Inclusion is the act of including and exclusion is the act of excluding.	2.6
+702	main-forums	answers-forums	2015	414	none	none	Firstly, you should be aware that there are two different kinds of dashes: the en dash and the em dash.	Semicolon is used to join sentences that can stand alone, but are joined to emphasize their relationship.	0.6
+703	main-forums	answers-forums	2015	422	none	none	"Pardon the brevity of this answer, but I would say ""named"" is preferred within the context of your example."	Named is preferred in your example, since you are formally giving a name to your method.	4.4
+704	main-forums	answers-forums	2015	423	none	none	"In standard English, I think ""don't got"" has the same register as ""ain't""."	I'd say the expression I don't got... is generally rare in spoken AmE.	2.2
+705	main-forums	answers-forums	2015	429	none	none	"The ""more posh"" words are usually Latin (occasionally Greek) in origin."	As Shinto pointed out, vulgar words exist in every language.	1.0
+706	main-forums	answers-forums	2015	430	none	none	I'm American, and I've never heard the bathroom referred to as St. John's.	In situations like these, I tend to lengthen out the phrase.	0.0
+707	main-forums	answers-forums	2015	432	none	none	The room used for defecation is almost always referred to by euphemism.	I'm English, and would probably use 'toilet' most of the time, and always in the context of a private home.	1.6
+708	main-forums	answers-forums	2015	445	none	none	I can only think of context using insofar as or insofar that.	The form insofar is American English; the standard form in British and other English is 'in so far'.	1.8
+709	main-forums	answers-forums	2015	454	none	none	"As others have said, ""ten of six"", though not used in many English speaking areas, would be understood as 5:50."	Ten of six probably means 5:50 but I have not heard it before.	3.8
+710	main-forums	answers-forums	2015	461	none	none	"Certainly many usage guides have advised against use of this ""singular they"" on various ""logical"" grounds."	"Second one  (for writing purpose), if I believe the ""THEY/THEIR (SINGULAR)"" article."	3.0
+711	main-forums	answers-forums	2015	467	none	none	"This may be overly obvious, but in American English, saying ""you're welcome"" is certainly polite and standard."	"I'm not sure how ""Not at all"" sounds in response to ""thank you""."	1.4
+712	main-forums	answers-forums	2015	468	none	none	"Back in the day, ""cable"" was used to describe communications sent abroad."	"The word ""cable"" has its origins in the days of the telegraph."	3.0
+713	main-forums	answers-forums	2015	469	none	none	Those expressions could have slightly different meanings especially when talking about finance.	I suspect the phrase originated in the habit of drawing the internet as a cloud shape on network diagrams.	0.4
+714	main-forums	answers-forums	2015	471	none	none	In the United States, jails are operated by cities and counties (or equivalent).	Jail is a municipal level, prison is on a state/federal/provincial/territory level.	3.6
+715	main-forums	answers-forums	2015	482	none	none	Yes, your sentence will be clearer if you write the actual word instead of the slash.	Most style guides recommend against using the slash in phrases like “X and/or Y”, as well as  “this is hard/impossible to do”.	3.4
+716	main-forums	answers-forums	2015	496	none	none	If you understand yourself and your enemy, you will be far more likely to win any battle.	Another meaning behind this quote aside from probabilities of winning a theoretical battle is the importance of knowing/understanding others.	2.8
+717	main-forums	answers-forums	2015	500	none	none	There are a lot of push up variations you can do and they all stress different muscle systems.	There are several different pushup variations out there and most of them provide a unique advantage.	4.2
+718	main-forums	answers-forums	2015	501	none	none	You definitely do NOT want to be supporting your weight with your arms on the bike for normal riding.	No, don't support your weight on your arms Your hands simply aren't really made for supporting all that weight.	4.2
+719	main-forums	answers-forums	2015	507	none	none	Yes, you should stretch before running, but not the sit down and reach kind of stretching.	Neuromuscular Activation and Dynamic Stretching Here is an excellent video on a dynamic stretching routine for running.	1.8
+720	main-forums	answers-forums	2015	517	none	none	I feel your pain - I absolutely pour with sweat with any vigorous exercise, even in cool conditions.	Sweat rate is sweat rate, you can't really control it.	1.0
+721	main-forums	answers-forums	2015	528	none	none	Running downhill is the BEST way to strengthen your quad muscles.	Additionally often people will think a downhill marathon is easier, but in fact, is often harder than an uphill marathon.	2.0
+722	main-forums	answers-forums	2015	533	none	none	I recently stumbled on a great article that talks about protein consumption for the purposes of building muscle (recovery included).	Low reps with high weights don't add mass because the duration of the exercise is kept short.	1.0
+723	main-forums	answers-forums	2015	539	none	none	Rotate through square, lunges and calf raises doing each until you feel a little burn.	Air squats, forward and side lunges, sprawl, wall chair, and lots and lots of jump rope.	1.6
+724	main-forums	answers-forums	2015	541	none	none	If you're doing a full body workout 6 days a week, you absolutely need the rest week.	There are both physiological and neurological reasons to build in rest.	2.6
+725	main-forums	answers-forums	2015	545	none	none	I've noticed a remarkable difference when I run on the treadmill vs when I run on the road.	A treadmill won't prepare you for the impact of running for real.	3.2
+726	main-forums	answers-forums	2015	548	none	none	Google search for Travel WODs has whole lots of results which you can use.	As @Sarge says, this is for a doctor to diagnose properly.	0.4
+727	main-forums	answers-forums	2015	556	none	none	Since you're being kind of vague here, I can only give you a vague answer.	In general, warming up your muscles only requires performing the movement with lower weights.	0.0
+728	main-forums	answers-forums	2015	574	none	none	First of all, as a general matter of fact you suppose to change your workout routine in every 3-4 weeks.	You can mix those, but in my experience, it will be very difficult at first.	0.0
+729	main-forums	answers-forums	2015	582	none	none	Properly executed weight training will increase, not decrease, your flexibility and mobility.	I've seen guys that are still very flexable while lifting weights.	2.2
+730	main-forums	answers-forums	2015	600	none	none	I think it is still feasible to store seeds until the next year.	I haven't tried storing tomato seeds myself, but I have tried to store pepper seeds (and they are closely related).	1.5

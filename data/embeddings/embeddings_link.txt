@@ -1,0 +1,2 @@
+Vietnamese Word2vec: https://www.kaggle.com/datasets/rdizzl3/glove6b50d
+glove6b50d: https://www.kaggle.com/datasets/rdizzl3/glove6b50d
